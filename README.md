@@ -14,4 +14,4 @@
 
 ## Overview
 
-<div align=center><img src="https://github.com/wzk610/HRCHY-CytoCommunity/blob/main/support/Schematic.png" width="650" height="650" alt="pipline"/></div>  
+<div align=center><img src="https://github.com/wzk610/HRCHY-CytoCommunity/blob/main/support/Schematic.png" width="650" height="900" alt="pipline"/></div>  
