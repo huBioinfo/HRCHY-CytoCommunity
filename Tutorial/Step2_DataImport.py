@@ -7,7 +7,7 @@ from torch_geometric.data import Data, InMemoryDataset
 
 # Hyperparameters
 max_nodes = 8300   #This number must be higher than the largest number of cells in each image in the studied dataset.
-InputFolderName = "./MIBI_TNBC_KNNgraph_Input/"
+InputFolderName = "./TNBC_MIBI-TOF_Input/"
 
 
 ## Construct ordinary Python list to hold all input graphs.
