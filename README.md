@@ -40,4 +40,42 @@ Building upon the recently established tissue structure identification framework
 (5) HRCHY-CytoCommunity utilizes an additional cell-type enrichment-based clustering module to generate a unified set of nested multicellular structures across all tissue samples, thereby addressing the issue of cross-sample comparative analysis.
 
 
+## Installation
+
+### Hardware requirement 
+
+CPU: i7
+
+Memory: 16G or more
+
+Storage: 8GB or more
+
+### Software requirement
+
+Conda version: 4.12.0
+
+Python version: 3.10.6
+
+R version: 4.1.3
+
+Clone this repository and cd into it as below.
+```
+git clone https://github.com/wzk610/HRCHY-CytoCommunity.git
+cd HRCHY-CytoCommunity
+```
+#### For Windows
+
+1. Create a new conda environment using the environment.yml file with the following commands:
+
+    ```bash
+    conda env create -f environment.yml
+    ```
+
+2. Install the diceR package with the following command:
+
+    ```bash
+    R.exe
+    > install.packages("diceR")
+    ```
+
 
