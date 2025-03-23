@@ -1,0 +1,6667 @@
+Keratin+ neoplastic cells
+Neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+CD8+ T
+CD8+ T
+CD8+ T
+Macrophages
+Macrophages
+Macrophages
+Macrophages
+Regulatory T
+CD4+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Regulatory T
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Unknown subpopulation
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+Other immune cells
+CD4+ T
+Other immune cells
+CD8+ T
+CD4+ T
+CD3+ T
+Other immune cells
+CD3+ T
+CD3+ T
+Dendritic cells and monocytes mixed subpopulation
+CD3+ T
+CD3+ T
+CD3+ T
+CD4+ T
+B cells
+CD4+ T
+CD3+ T
+CD4+ T
+CD3+ T
+CD3+ T
+CD4+ T
+Macrophages
+CD3+ T
+CD4+ T
+Macrophages
+Other immune cells
+Macrophages
+CD4+ T
+Neoplastic cells
+Macrophages
+Macrophages
+Keratin+ neoplastic cells
+Neoplastic cells
+CD4+ T
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+CD4+ T
+Neoplastic cells
+B cells
+Macrophages
+Other immune cells
+Neoplastic cells
+Other immune cells
+CD3+ T
+CD3+ T
+B cells
+CD8+ T
+Neoplastic cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Regulatory T
+CD8+ T
+CD4+ T
+CD4+ T
+CD3+ T
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+Neoplastic cells
+Macrophages
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD3+ T
+B cells
+CD3+ T
+Dendritic cells and monocytes mixed subpopulation
+Neoplastic cells
+Macrophages
+CD4+ T
+Keratin+ neoplastic cells
+Regulatory T
+CD4+ T
+Neoplastic cells
+CD4+ T
+CD4+ T
+B cells
+Keratin+ neoplastic cells
+CD4+ T
+Macrophages
+Other immune cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+CD4+ T
+B cells
+Keratin+ neoplastic cells
+Dendritic cells and monocytes mixed subpopulation
+CD3+ T
+CD4+ T
+Neoplastic cells
+Neoplastic cells
+Macrophages
+CD3+ T
+CD3+ T
+Regulatory T
+Neutrophil
+Neoplastic cells
+CD4+ T
+B cells
+B cells
+Monocytes and neutrophils mixed subpopulation
+CD3+ T
+Neoplastic cells
+Neoplastic cells
+B cells
+Macrophages
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Other immune cells
+Neutrophil
+Keratin+ neoplastic cells
+CD4+ T
+CD3+ T
+B cells
+CD4+ T
+Neoplastic cells
+CD3+ T
+CD4+ T
+Keratin+ neoplastic cells
+CD4+ T
+B cells
+Regulatory T
+CD8+ T
+Macrophages
+Neutrophil
+Other immune cells
+Neoplastic cells
+Keratin+ neoplastic cells
+CD8+ T
+Macrophages
+Keratin+ neoplastic cells
+CD8+ T
+CD3+ T
+B cells
+Other immune cells
+CD4+ T
+CD3+ T
+CD4+ T
+Macrophages
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+Macrophages
+Macrophages
+Keratin+ neoplastic cells
+Neoplastic cells
+CD3+ T
+Macrophages
+Neoplastic cells
+Neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+Neutrophil
+Keratin+ neoplastic cells
+Neoplastic cells
+CD4+ T
+CD8+ T
+CD3+ T
+CD8+ T
+CD8+ T
+CD4+ T
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Other immune cells
+CD3+ T
+CD8+ T
+Keratin+ neoplastic cells
+B cells
+B cells
+Macrophages
+CD4+ T
+Macrophages
+B cells
+Neoplastic cells
+CD3+ T
+B cells
+Monocytes and neutrophils mixed subpopulation
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+Neutrophil
+B cells
+Other immune cells
+Neoplastic cells
+CD4+ T
+CD4+ T
+Other immune cells
+Keratin+ neoplastic cells
+Neoplastic cells
+CD3+ T
+CD3+ T
+B cells
+Neoplastic cells
+Neoplastic cells
+Keratin+ neoplastic cells
+Regulatory T
+Monocytes and neutrophils mixed subpopulation
+CD4+ T
+CD3+ T
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+CD3+ T
+Neutrophil
+Neoplastic cells
+Neoplastic cells
+Macrophages
+Keratin+ neoplastic cells
+CD4+ T
+B cells
+Keratin+ neoplastic cells
+CD3+ T
+Macrophages
+Other immune cells
+Keratin+ neoplastic cells
+Macrophages
+Other immune cells
+CD3+ T
+Neoplastic cells
+Regulatory T
+Keratin+ neoplastic cells
+Neoplastic cells
+CD4+ T
+CD4+ T
+Other immune cells
+Neoplastic cells
+Macrophages
+Neoplastic cells
+Other immune cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+CD4+ T
+CD4+ T
+CD3+ T
+CD4+ T
+CD3+ T
+CD4+ T
+Unknown subpopulation
+Neoplastic cells
+CD3+ T
+Macrophages
+Neoplastic cells
+B cells
+CD3+ T
+B cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Keratin+ neoplastic cells
+CD8+ T
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Unknown subpopulation
+Keratin+ neoplastic cells
+Neoplastic cells
+CD8+ T
+Unknown subpopulation
+Keratin+ neoplastic cells
+CD3+ T
+Macrophages
+B cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+CD4+ T
+CD3+ T
+Keratin+ neoplastic cells
+CD8+ T
+CD4+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Keratin+ neoplastic cells
+CD8+ T
+Neutrophil
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+CD8+ T
+CD3+ T
+Neoplastic cells
+CD8+ T
+CD3+ T
+CD4+ T
+CD3+ T
+CD4+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+B cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+CD3+ T
+Macrophages
+Macrophages
+B cells
+CD3+ T
+Other immune cells
+Keratin+ neoplastic cells
+Neutrophil
+Neoplastic cells
+CD3+ T
+Other immune cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Regulatory T
+Regulatory T
+Neoplastic cells
+Macrophages
+Keratin+ neoplastic cells
+Neoplastic cells
+Regulatory T
+Neoplastic cells
+Keratin+ neoplastic cells
+CD4+ T
+B cells
+CD4+ T
+Neutrophil
+Regulatory T
+Keratin+ neoplastic cells
+Neoplastic cells
+CD8+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+Macrophages
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+CD3+ T
+CD3+ T
+B cells
+Neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Keratin+ neoplastic cells
+CD3+ T
+CD3+ T
+CD3+ T
+CD4+ T
+Other immune cells
+Neoplastic cells
+Neoplastic cells
+Neutrophil
+B cells
+CD3+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Keratin+ neoplastic cells
+CD4+ T
+CD4+ T
+CD3+ T
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD3+ T
+Macrophages
+CD4+ T
+CD4+ T
+B cells
+Other immune cells
+Keratin+ neoplastic cells
+Neoplastic cells
+CD3+ T
+Macrophages
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+B cells
+CD3+ T
+CD3+ T
+Neoplastic cells
+Neutrophil
+Neoplastic cells
+Regulatory T
+Neoplastic cells
+B cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+CD4+ T
+B cells
+Macrophages
+Neoplastic cells
+CD3+ T
+CD4+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+Dendritic cells and monocytes mixed subpopulation
+Other immune cells
+Keratin+ neoplastic cells
+CD4+ T
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+Other immune cells
+CD8+ T
+Neoplastic cells
+Keratin+ neoplastic cells
+Other immune cells
+Neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+CD4+ T
+Keratin+ neoplastic cells
+Macrophages
+Neoplastic cells
+Other immune cells
+Keratin+ neoplastic cells
+CD4+ T
+CD3+ T
+Keratin+ neoplastic cells
+Other immune cells
+CD3+ T
+CD4+ T
+CD3+ T
+CD3+ T
+Keratin+ neoplastic cells
+CD8+ T
+CD3+ T
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+CD3+ T
+CD4+ T
+Regulatory T
+CD3+ T
+Regulatory T
+Macrophages
+Monocytes and neutrophils mixed subpopulation
+Keratin+ neoplastic cells
+CD4+ T
+Keratin+ neoplastic cells
+Other immune cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Macrophages
+Neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+CD3+ T
+CD3+ T
+Macrophages
+Macrophages
+Neoplastic cells
+CD4+ T
+Monocytes and neutrophils mixed subpopulation
+Keratin+ neoplastic cells
+Neoplastic cells
+CD8+ T
+CD3+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+CD4+ T
+Neoplastic cells
+Macrophages
+Neoplastic cells
+CD4+ T
+CD3+ T
+CD4+ T
+Keratin+ neoplastic cells
+CD4+ T
+Keratin+ neoplastic cells
+Regulatory T
+Neoplastic cells
+CD4+ T
+CD4+ T
+CD3+ T
+CD4+ T
+Macrophages
+Neoplastic cells
+Keratin+ neoplastic cells
+CD4+ T
+CD3+ T
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Macrophages
+Keratin+ neoplastic cells
+Neutrophil
+Neoplastic cells
+CD4+ T
+Neutrophil
+CD4+ T
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Unknown subpopulation
+Neoplastic cells
+CD4+ T
+Neoplastic cells
+CD8+ T
+Neoplastic cells
+CD3+ T
+Other immune cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Neutrophil
+CD3+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+Other immune cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+CD8+ T
+Neoplastic cells
+B cells
+CD4+ T
+Neoplastic cells
+Neoplastic cells
+Regulatory T
+CD4+ T
+B cells
+Macrophages
+Neoplastic cells
+CD4+ T
+CD4+ T
+B cells
+CD4+ T
+CD4+ T
+CD8+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+Macrophages
+CD4+ T
+Neoplastic cells
+Regulatory T
+Neoplastic cells
+Macrophages
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+B cells
+Keratin+ neoplastic cells
+Neoplastic cells
+CD4+ T
+CD3+ T
+B cells
+Keratin+ neoplastic cells
+CD3+ T
+B cells
+Macrophages
+Neoplastic cells
+B cells
+B cells
+CD4+ T
+Neoplastic cells
+CD8+ T
+Neoplastic cells
+Monocytes and neutrophils mixed subpopulation
+Neoplastic cells
+B cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD3+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+Keratin+ neoplastic cells
+B cells
+CD3+ T
+CD4+ T
+CD4+ T
+CD4+ T
+B cells
+Neoplastic cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Other immune cells
+Neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+CD8+ T
+CD8+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+Neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+B cells
+B cells
+Keratin+ neoplastic cells
+CD3+ T
+Neoplastic cells
+Keratin+ neoplastic cells
+CD3+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+CD3+ T
+CD4+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+CD3+ T
+CD4+ T
+CD3+ T
+Other immune cells
+Neoplastic cells
+B cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+B cells
+Neoplastic cells
+CD4+ T
+Neoplastic cells
+CD4+ T
+Neoplastic cells
+CD3+ T
+B cells
+CD4+ T
+CD4+ T
+Other immune cells
+Neoplastic cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+B cells
+Keratin+ neoplastic cells
+Macrophages
+B cells
+B cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+CD3+ T
+CD8+ T
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Other immune cells
+CD3+ T
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Macrophages
+CD4+ T
+Neoplastic cells
+Keratin+ neoplastic cells
+Unknown subpopulation
+CD3+ T
+Neoplastic cells
+CD4+ T
+Neutrophil
+Regulatory T
+Keratin+ neoplastic cells
+CD8+ T
+Neoplastic cells
+Keratin+ neoplastic cells
+CD4+ T
+CD4+ T
+Neoplastic cells
+B cells
+CD3+ T
+CD3+ T
+Monocytes and neutrophils mixed subpopulation
+CD8+ T
+B cells
+Neoplastic cells
+Keratin+ neoplastic cells
+CD8+ T
+Neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+CD3+ T
+CD8+ T
+CD4+ T
+Neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+CD3+ T
+Monocytes and neutrophils mixed subpopulation
+Unknown subpopulation
+CD4+ T
+Regulatory T
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Unknown subpopulation
+Neoplastic cells
+Other immune cells
+B cells
+Neoplastic cells
+CD3+ T
+Keratin+ neoplastic cells
+Regulatory T
+B cells
+CD4+ T
+CD3+ T
+Macrophages
+Keratin+ neoplastic cells
+Neoplastic cells
+CD4+ T
+Keratin+ neoplastic cells
+CD4+ T
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+CD3+ T
+Other immune cells
+CD3+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+Other immune cells
+Keratin+ neoplastic cells
+CD3+ T
+CD4+ T
+Neoplastic cells
+Macrophages
+Neoplastic cells
+Macrophages
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neutrophil
+Other immune cells
+CD3+ T
+CD4+ T
+CD8+ T
+Other immune cells
+NK cells
+Other immune cells
+Other immune cells
+CD4+ T
+Neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+CD4+ T
+Neoplastic cells
+CD4+ T
+B cells
+Macrophages
+Neoplastic cells
+Regulatory T
+CD3+ T
+B cells
+CD3+ T
+B cells
+B cells
+Other immune cells
+Keratin+ neoplastic cells
+Macrophages
+Neoplastic cells
+Neutrophil
+B cells
+Neoplastic cells
+CD3+ T
+CD3+ T
+Neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+Neoplastic cells
+Keratin+ neoplastic cells
+Macrophages
+B cells
+Keratin+ neoplastic cells
+Neoplastic cells
+CD8+ T
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+Neoplastic cells
+Keratin+ neoplastic cells
+Macrophages
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+Keratin+ neoplastic cells
+Other immune cells
+B cells
+Keratin+ neoplastic cells
+CD3+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+CD8+ T
+CD3+ T
+Neoplastic cells
+Neoplastic cells
+CD3+ T
+Macrophages
+Macrophages
+B cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Other immune cells
+B cells
+Dendritic cells and monocytes mixed subpopulation
+CD4+ T
+Neoplastic cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Other immune cells
+Keratin+ neoplastic cells
+CD4+ T
+CD4+ T
+B cells
+CD4+ T
+Neoplastic cells
+Other immune cells
+Macrophages
+Neoplastic cells
+Neoplastic cells
+B cells
+Other immune cells
+B cells
+Neoplastic cells
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+CD3+ T
+Regulatory T
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD3+ T
+Neoplastic cells
+Neoplastic cells
+Macrophages
+CD3+ T
+Neoplastic cells
+Neoplastic cells
+NK cells
+B cells
+Neoplastic cells
+NK cells
+Other immune cells
+CD4+ T
+B cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+Other immune cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Keratin+ neoplastic cells
+Macrophages
+CD4+ T
+B cells
+CD8+ T
+Other immune cells
+CD3+ T
+B cells
+Neoplastic cells
+B cells
+CD4+ T
+Neoplastic cells
+Neoplastic cells
+Neutrophil
+CD8+ T
+Neoplastic cells
+Keratin+ neoplastic cells
+CD4+ T
+Neoplastic cells
+Neoplastic cells
+Keratin+ neoplastic cells
+Unknown subpopulation
+Neoplastic cells
+Macrophages
+CD4+ T
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Macrophages
+B cells
+Neoplastic cells
+Keratin+ neoplastic cells
+Other immune cells
+CD3+ T
+CD4+ T
+Macrophages
+B cells
+B cells
+Neoplastic cells
+Macrophages
+CD4+ T
+CD8+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+CD4+ T
+B cells
+CD8+ T
+Neoplastic cells
+Keratin+ neoplastic cells
+CD4+ T
+Neoplastic cells
+CD4+ T
+B cells
+Keratin+ neoplastic cells
+Other immune cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+Keratin+ neoplastic cells
+Other immune cells
+Macrophages
+B cells
+Neoplastic cells
+CD8+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+CD4+ T
+B cells
+Neoplastic cells
+Other immune cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+Neoplastic cells
+CD3+ T
+CD8+ T
+Keratin+ neoplastic cells
+Other immune cells
+Neoplastic cells
+CD3+ T
+CD4+ T
+CD8+ T
+B cells
+B cells
+CD3+ T
+Other immune cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Neutrophil
+CD4+ T
+CD8+ T
+Other immune cells
+Neoplastic cells
+CD4+ T
+Other immune cells
+Keratin+ neoplastic cells
+Other immune cells
+Other immune cells
+Neoplastic cells
+Unknown subpopulation
+CD3+ T
+Other immune cells
+CD4+ T
+Other immune cells
+NK cells
+CD8+ T
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Other immune cells
+CD3+ T
+CD4+ T
+B cells
+B cells
+Keratin+ neoplastic cells
+Neoplastic cells
+CD4+ T
+Neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Unknown subpopulation
+Neoplastic cells
+Neoplastic cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+CD8+ T
+CD4+ T
+CD4+ T
+CD3+ T
+Neoplastic cells
+Neoplastic cells
+CD3+ T
+Keratin+ neoplastic cells
+Other immune cells
+Other immune cells
+Macrophages
+B cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Macrophages
+CD4+ T
+Regulatory T
+Neoplastic cells
+CD3+ T
+CD4+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+CD8+ T
+Neoplastic cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+CD4+ T
+CD4+ T
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+Neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+CD8+ T
+Other immune cells
+Unknown subpopulation
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+CD4+ T
+Neoplastic cells
+CD8+ T
+B cells
+Neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+B cells
+CD8+ T
+Neoplastic cells
+CD3+ T
+CD8+ T
+Keratin+ neoplastic cells
+CD8+ T
+Macrophages
+Keratin+ neoplastic cells
+Neutrophil
+CD3+ T
+CD4+ T
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+CD8+ T
+Endothelial cells
+CD4+ T
+CD4+ T
+Neoplastic cells
+Macrophages
+CD8+ T
+CD8+ T
+CD4+ T
+CD4+ T
+CD4+ T
+Neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+CD3+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+CD8+ T
+CD4+ T
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD3+ T
+CD8+ T
+Other immune cells
+Neoplastic cells
+B cells
+Keratin+ neoplastic cells
+Neoplastic cells
+CD3+ T
+Macrophages
+B cells
+Neoplastic cells
+CD4+ T
+Other immune cells
+Neoplastic cells
+Other immune cells
+Macrophages
+Neoplastic cells
+Neoplastic cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+B cells
+Macrophages
+CD4+ T
+CD4+ T
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Other immune cells
+CD4+ T
+Macrophages
+CD8+ T
+Macrophages
+CD4+ T
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+CD4+ T
+Neoplastic cells
+Other immune cells
+Other immune cells
+CD4+ T
+CD4+ T
+CD4+ T
+Other immune cells
+CD3+ T
+Macrophages
+CD3+ T
+Other immune cells
+Keratin+ neoplastic cells
+CD3+ T
+B cells
+Other immune cells
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+Macrophages
+B cells
+CD4+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+CD8+ T
+Other immune cells
+CD4+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+B cells
+Dendritic cells and monocytes mixed subpopulation
+CD4+ T
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+B cells
+CD4+ T
+Endothelial cells
+CD3+ T
+CD3+ T
+CD3+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+CD3+ T
+Keratin+ neoplastic cells
+Regulatory T
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+B cells
+CD4+ T
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+CD3+ T
+CD8+ T
+Other immune cells
+CD4+ T
+Neoplastic cells
+Neoplastic cells
+CD3+ T
+CD4+ T
+CD4+ T
+CD8+ T
+Keratin+ neoplastic cells
+CD3+ T
+CD4+ T
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+CD4+ T
+Neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+B cells
+CD4+ T
+Neoplastic cells
+Keratin+ neoplastic cells
+CD3+ T
+Neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+B cells
+CD3+ T
+Neoplastic cells
+Neoplastic cells
+Macrophages
+Neoplastic cells
+Neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+CD8+ T
+B cells
+Endothelial cells
+CD8+ T
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+CD4+ T
+CD3+ T
+Unknown subpopulation
+CD8+ T
+CD4+ T
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+CD4+ T
+Keratin+ neoplastic cells
+CD4+ T
+B cells
+CD8+ T
+CD3+ T
+Neoplastic cells
+CD3+ T
+Neoplastic cells
+CD3+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+Other immune cells
+CD4+ T
+CD4+ T
+Macrophages
+CD4+ T
+CD4+ T
+Neoplastic cells
+Neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Regulatory T
+CD4+ T
+Regulatory T
+Regulatory T
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+B cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+B cells
+B cells
+Neoplastic cells
+Keratin+ neoplastic cells
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+Neoplastic cells
+Regulatory T
+CD4+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+B cells
+CD4+ T
+Keratin+ neoplastic cells
+CD4+ T
+B cells
+B cells
+B cells
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+Neoplastic cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD3+ T
+CD8+ T
+Macrophages
+Neoplastic cells
+Other immune cells
+CD8+ T
+Macrophages
+CD3+ T
+Neoplastic cells
+CD3+ T
+CD8+ T
+B cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+B cells
+B cells
+B cells
+Keratin+ neoplastic cells
+Other immune cells
+Regulatory T
+CD8+ T
+CD4+ T
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+CD8+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+B cells
+Other immune cells
+CD3+ T
+CD3+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+CD3+ T
+CD4+ T
+Dendritic cells and monocytes mixed subpopulation
+B cells
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+CD4+ T
+B cells
+CD4+ T
+CD3+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+Regulatory T
+Other immune cells
+CD4+ T
+CD3+ T
+Neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+CD3+ T
+Neoplastic cells
+Monocytes and neutrophils mixed subpopulation
+Neoplastic cells
+Endothelial cells
+CD4+ T
+CD8+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+CD8+ T
+Macrophages
+Neoplastic cells
+CD3+ T
+Other immune cells
+CD4+ T
+Macrophages
+CD8+ T
+Neoplastic cells
+CD4+ T
+B cells
+Neoplastic cells
+CD4+ T
+B cells
+Macrophages
+CD8+ T
+Neutrophil
+Neoplastic cells
+Keratin+ neoplastic cells
+B cells
+CD3+ T
+CD4+ T
+CD4+ T
+CD8+ T
+Keratin+ neoplastic cells
+CD3+ T
+CD8+ T
+B cells
+B cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Macrophages
+Macrophages
+Neoplastic cells
+Neoplastic cells
+Regulatory T
+B cells
+CD3+ T
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+CD8+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+B cells
+CD3+ T
+Neoplastic cells
+B cells
+Neoplastic cells
+Neoplastic cells
+Macrophages
+CD4+ T
+Neoplastic cells
+Neoplastic cells
+Regulatory T
+Macrophages
+B cells
+CD4+ T
+Macrophages
+Keratin+ neoplastic cells
+CD3+ T
+B cells
+CD4+ T
+B cells
+CD8+ T
+CD4+ T
+CD4+ T
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Regulatory T
+Neoplastic cells
+CD3+ T
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Other immune cells
+B cells
+CD8+ T
+B cells
+CD8+ T
+CD3+ T
+Neoplastic cells
+Neoplastic cells
+Regulatory T
+Neoplastic cells
+B cells
+CD4+ T
+B cells
+CD4+ T
+Unknown subpopulation
+Keratin+ neoplastic cells
+Macrophages
+CD4+ T
+CD3+ T
+CD3+ T
+CD3+ T
+Keratin+ neoplastic cells
+B cells
+CD8+ T
+B cells
+Dendritic cells and monocytes mixed subpopulation
+B cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+CD8+ T
+CD8+ T
+CD8+ T
+CD8+ T
+Neoplastic cells
+Macrophages
+CD4+ T
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+B cells
+Neoplastic cells
+Neoplastic cells
+CD3+ T
+CD3+ T
+Other immune cells
+CD4+ T
+CD4+ T
+Regulatory T
+Keratin+ neoplastic cells
+Other immune cells
+CD3+ T
+B cells
+CD3+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+B cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+CD4+ T
+CD3+ T
+CD3+ T
+Macrophages
+CD8+ T
+CD8+ T
+CD4+ T
+CD4+ T
+B cells
+B cells
+CD3+ T
+B cells
+B cells
+B cells
+Keratin+ neoplastic cells
+Neoplastic cells
+CD4+ T
+CD8+ T
+B cells
+B cells
+Neoplastic cells
+Dendritic cells and monocytes mixed subpopulation
+B cells
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+Neoplastic cells
+B cells
+CD4+ T
+Macrophages
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neutrophil
+CD8+ T
+Neoplastic cells
+Keratin+ neoplastic cells
+CD4+ T
+CD8+ T
+CD3+ T
+CD3+ T
+Neoplastic cells
+Neoplastic cells
+B cells
+Neoplastic cells
+B cells
+CD8+ T
+CD4+ T
+B cells
+CD3+ T
+CD8+ T
+Regulatory T
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+CD8+ T
+Neoplastic cells
+Macrophages
+CD4+ T
+B cells
+CD4+ T
+CD4+ T
+CD4+ T
+Other immune cells
+CD8+ T
+Neoplastic cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Other immune cells
+Neoplastic cells
+CD8+ T
+CD3+ T
+Neoplastic cells
+Neutrophil
+B cells
+CD3+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+Neutrophil
+CD8+ T
+CD4+ T
+CD8+ T
+Neoplastic cells
+CD4+ T
+B cells
+Keratin+ neoplastic cells
+Other immune cells
+Neoplastic cells
+Other immune cells
+Keratin+ neoplastic cells
+Neoplastic cells
+CD4+ T
+CD4+ T
+B cells
+B cells
+CD8+ T
+Neoplastic cells
+CD8+ T
+CD4+ T
+CD3+ T
+CD3+ T
+Neoplastic cells
+CD8+ T
+CD8+ T
+Macrophages
+B cells
+CD3+ T
+Monocytes and neutrophils mixed subpopulation
+Other immune cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+B cells
+CD4+ T
+Neoplastic cells
+CD8+ T
+CD4+ T
+B cells
+CD3+ T
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+CD4+ T
+CD4+ T
+CD3+ T
+Keratin+ neoplastic cells
+Other immune cells
+CD3+ T
+CD3+ T
+CD3+ T
+CD3+ T
+CD4+ T
+CD4+ T
+Neoplastic cells
+Neutrophil
+CD8+ T
+CD3+ T
+Keratin+ neoplastic cells
+Macrophages
+CD4+ T
+CD8+ T
+Neoplastic cells
+CD4+ T
+CD3+ T
+CD3+ T
+Keratin+ neoplastic cells
+Other immune cells
+B cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Other immune cells
+Neoplastic cells
+CD8+ T
+CD3+ T
+Other immune cells
+CD3+ T
+B cells
+Dendritic cells and monocytes mixed subpopulation
+Neoplastic cells
+CD8+ T
+Other immune cells
+CD8+ T
+Macrophages
+CD4+ T
+CD4+ T
+B cells
+CD8+ T
+Macrophages
+Keratin+ neoplastic cells
+Neoplastic cells
+CD8+ T
+Neoplastic cells
+Neutrophil
+CD8+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+B cells
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+Macrophages
+CD4+ T
+CD3+ T
+CD3+ T
+CD4+ T
+Neoplastic cells
+CD8+ T
+CD3+ T
+CD4+ T
+CD8+ T
+Neoplastic cells
+Other immune cells
+CD8+ T
+Neoplastic cells
+CD3+ T
+CD3+ T
+CD8+ T
+Neoplastic cells
+CD8+ T
+B cells
+CD3+ T
+B cells
+CD4+ T
+CD4+ T
+Dendritic cells and monocytes mixed subpopulation
+CD4+ T
+CD4+ T
+B cells
+Neoplastic cells
+Neoplastic cells
+Monocytes and neutrophils mixed subpopulation
+CD8+ T
+Macrophages
+Macrophages
+Macrophages
+Unknown subpopulation
+CD3+ T
+CD3+ T
+CD3+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+Unknown subpopulation
+CD4+ T
+Other immune cells
+CD8+ T
+Keratin+ neoplastic cells
+CD8+ T
+CD3+ T
+Neoplastic cells
+CD8+ T
+Neoplastic cells
+CD3+ T
+CD3+ T
+Other immune cells
+Neoplastic cells
+Neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+B cells
+Neutrophil
+CD4+ T
+CD3+ T
+CD8+ T
+Neoplastic cells
+Keratin+ neoplastic cells
+CD8+ T
+CD8+ T
+Other immune cells
+Keratin+ neoplastic cells
+Neoplastic cells
+CD3+ T
+Neoplastic cells
+Keratin+ neoplastic cells
+Other immune cells
+Other immune cells
+Macrophages
+Keratin+ neoplastic cells
+Neoplastic cells
+Macrophages
+CD4+ T
+CD8+ T
+Other immune cells
+Neoplastic cells
+CD8+ T
+CD8+ T
+CD4+ T
+Endothelial cells
+Neutrophil
+Keratin+ neoplastic cells
+Neoplastic cells
+CD8+ T
+B cells
+B cells
+CD3+ T
+Keratin+ neoplastic cells
+B cells
+Other immune cells
+CD8+ T
+Macrophages
+B cells
+Other immune cells
+CD4+ T
+CD8+ T
+Neoplastic cells
+Neutrophil
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+CD4+ T
+Endothelial cells
+B cells
+Neoplastic cells
+CD8+ T
+Neoplastic cells
+CD4+ T
+CD4+ T
+CD3+ T
+CD3+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+CD4+ T
+Endothelial cells
+CD3+ T
+CD3+ T
+Macrophages
+CD8+ T
+CD8+ T
+CD8+ T
+Other immune cells
+Neutrophil
+B cells
+CD4+ T
+CD4+ T
+Neutrophil
+Neoplastic cells
+Regulatory T
+CD3+ T
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Other immune cells
+CD8+ T
+B cells
+Keratin+ neoplastic cells
+Monocytes and neutrophils mixed subpopulation
+CD8+ T
+CD8+ T
+CD3+ T
+Other immune cells
+Neoplastic cells
+Regulatory T
+Macrophages
+Other immune cells
+CD3+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+Neutrophil
+Neoplastic cells
+Neutrophil
+Other immune cells
+CD3+ T
+Macrophages
+Neoplastic cells
+B cells
+Macrophages
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+Neoplastic cells
+B cells
+CD8+ T
+B cells
+CD8+ T
+CD3+ T
+Neoplastic cells
+B cells
+CD8+ T
+B cells
+Keratin+ neoplastic cells
+Neoplastic cells
+CD8+ T
+CD8+ T
+Neoplastic cells
+Neutrophil
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+CD8+ T
+Neoplastic cells
+CD8+ T
+Macrophages
+CD8+ T
+CD8+ T
+CD3+ T
+Neoplastic cells
+CD4+ T
+CD4+ T
+CD8+ T
+CD3+ T
+CD4+ T
+Neoplastic cells
+CD4+ T
+CD8+ T
+CD3+ T
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Other immune cells
+CD4+ T
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Neutrophil
+Macrophages
+Neutrophil
+Neoplastic cells
+CD3+ T
+Neoplastic cells
+CD8+ T
+CD3+ T
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+Macrophages
+B cells
+Keratin+ neoplastic cells
+Macrophages
+Neoplastic cells
+CD8+ T
+B cells
+CD3+ T
+B cells
+Macrophages
+Macrophages
+CD8+ T
+Neoplastic cells
+CD8+ T
+CD4+ T
+CD8+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+CD8+ T
+CD8+ T
+CD4+ T
+B cells
+CD8+ T
+CD8+ T
+CD8+ T
+B cells
+Neoplastic cells
+CD4+ T
+CD8+ T
+CD8+ T
+Keratin+ neoplastic cells
+Other immune cells
+Other immune cells
+CD4+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+Other immune cells
+Regulatory T
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+Macrophages
+CD8+ T
+B cells
+CD8+ T
+Macrophages
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+CD3+ T
+Neoplastic cells
+B cells
+Macrophages
+Other immune cells
+CD8+ T
+B cells
+Macrophages
+Neoplastic cells
+Other immune cells
+CD8+ T
+Macrophages
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Regulatory T
+Macrophages
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+CD8+ T
+B cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+Regulatory T
+B cells
+Macrophages
+Monocytes and neutrophils mixed subpopulation
+CD4+ T
+CD4+ T
+CD4+ T
+Other immune cells
+CD8+ T
+B cells
+CD4+ T
+Keratin+ neoplastic cells
+Dendritic cells and monocytes mixed subpopulation
+CD4+ T
+CD3+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+CD8+ T
+CD3+ T
+CD4+ T
+Other immune cells
+CD3+ T
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+B cells
+Keratin+ neoplastic cells
+CD4+ T
+B cells
+Keratin+ neoplastic cells
+Neoplastic cells
+B cells
+CD4+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+B cells
+CD4+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+Other immune cells
+CD3+ T
+Neoplastic cells
+Neoplastic cells
+CD3+ T
+CD8+ T
+CD3+ T
+Keratin+ neoplastic cells
+CD3+ T
+CD4+ T
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+CD3+ T
+Neoplastic cells
+Other immune cells
+CD8+ T
+CD8+ T
+CD4+ T
+CD3+ T
+Monocytes and neutrophils mixed subpopulation
+Monocytes and neutrophils mixed subpopulation
+CD8+ T
+CD3+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+CD4+ T
+CD4+ T
+Macrophages
+Neoplastic cells
+CD4+ T
+CD4+ T
+CD8+ T
+Keratin+ neoplastic cells
+CD3+ T
+CD4+ T
+CD3+ T
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Other immune cells
+CD8+ T
+CD3+ T
+Neoplastic cells
+Neoplastic cells
+Keratin+ neoplastic cells
+Other immune cells
+CD3+ T
+Other immune cells
+CD4+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+Other immune cells
+CD4+ T
+B cells
+Other immune cells
+Keratin+ neoplastic cells
+CD4+ T
+Endothelial cells
+CD8+ T
+CD4+ T
+Macrophages
+Neoplastic cells
+CD8+ T
+Neoplastic cells
+CD4+ T
+Macrophages
+Monocytes and neutrophils mixed subpopulation
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Endothelial cells
+Neoplastic cells
+CD4+ T
+CD4+ T
+CD4+ T
+Other immune cells
+CD4+ T
+CD8+ T
+CD4+ T
+Other immune cells
+CD3+ T
+Macrophages
+Monocytes and neutrophils mixed subpopulation
+Neoplastic cells
+CD4+ T
+B cells
+CD4+ T
+Keratin+ neoplastic cells
+CD4+ T
+CD4+ T
+Macrophages
+Other immune cells
+Macrophages
+Neoplastic cells
+Neoplastic cells
+B cells
+Monocytes and neutrophils mixed subpopulation
+Neoplastic cells
+CD8+ T
+CD4+ T
+CD4+ T
+Macrophages
+CD4+ T
+CD3+ T
+CD3+ T
+CD8+ T
+Other immune cells
+Other immune cells
+CD8+ T
+Keratin+ neoplastic cells
+Other immune cells
+CD8+ T
+CD8+ T
+Macrophages
+B cells
+CD4+ T
+CD3+ T
+Neoplastic cells
+Other immune cells
+Other immune cells
+Other immune cells
+CD4+ T
+Neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+B cells
+CD3+ T
+Keratin+ neoplastic cells
+CD4+ T
+CD8+ T
+CD3+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+CD8+ T
+Neoplastic cells
+Macrophages
+Macrophages
+B cells
+B cells
+CD4+ T
+CD8+ T
+CD8+ T
+CD4+ T
+CD8+ T
+CD4+ T
+CD8+ T
+Other immune cells
+B cells
+CD8+ T
+B cells
+Other immune cells
+B cells
+CD8+ T
+CD8+ T
+Neoplastic cells
+CD4+ T
+Neoplastic cells
+CD4+ T
+CD3+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+Macrophages
+Neoplastic cells
+Macrophages
+CD4+ T
+CD4+ T
+CD8+ T
+Keratin+ neoplastic cells
+CD8+ T
+Neoplastic cells
+CD4+ T
+Keratin+ neoplastic cells
+CD8+ T
+CD8+ T
+CD8+ T
+CD3+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+CD4+ T
+B cells
+Regulatory T
+CD4+ T
+Neoplastic cells
+CD8+ T
+Keratin+ neoplastic cells
+B cells
+Neutrophil
+Macrophages
+Neoplastic cells
+CD4+ T
+CD8+ T
+Keratin+ neoplastic cells
+Endothelial cells
+CD4+ T
+B cells
+CD4+ T
+Keratin+ neoplastic cells
+CD8+ T
+CD4+ T
+CD4+ T
+Monocytes and neutrophils mixed subpopulation
+Regulatory T
+CD4+ T
+CD8+ T
+Neoplastic cells
+CD8+ T
+CD8+ T
+CD8+ T
+CD8+ T
+CD4+ T
+Keratin+ neoplastic cells
+CD4+ T
+Regulatory T
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Macrophages
+Macrophages
+Monocytes and neutrophils mixed subpopulation
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+B cells
+Neoplastic cells
+Other immune cells
+CD8+ T
+Keratin+ neoplastic cells
+Endothelial cells
+Other immune cells
+CD8+ T
+CD3+ T
+Neoplastic cells
+Endothelial cells
+Macrophages
+CD4+ T
+Macrophages
+Endothelial cells
+CD8+ T
+CD8+ T
+CD8+ T
+Monocytes and neutrophils mixed subpopulation
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+CD8+ T
+CD4+ T
+Neoplastic cells
+Regulatory T
+Macrophages
+CD3+ T
+CD8+ T
+CD8+ T
+CD8+ T
+CD4+ T
+Macrophages
+Macrophages
+CD4+ T
+Endothelial cells
+Neoplastic cells
+Neoplastic cells
+Keratin+ neoplastic cells
+Regulatory T
+Other immune cells
+CD4+ T
+Other immune cells
+B cells
+Macrophages
+Keratin+ neoplastic cells
+CD4+ T
+Macrophages
+Keratin+ neoplastic cells
+Monocytes and neutrophils mixed subpopulation
+Macrophages
+Regulatory T
+Neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Regulatory T
+CD4+ T
+CD8+ T
+B cells
+B cells
+CD4+ T
+Other immune cells
+Endothelial cells
+Neutrophil
+CD4+ T
+Endothelial cells
+Macrophages
+Macrophages
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Keratin+ neoplastic cells
+CD8+ T
+Neutrophil
+CD4+ T
+Neoplastic cells
+CD4+ T
+Regulatory T
+B cells
+B cells
+Keratin+ neoplastic cells
+Neoplastic cells
+CD8+ T
+CD4+ T
+B cells
+Keratin+ neoplastic cells
+Endothelial cells
+Other immune cells
+CD8+ T
+CD8+ T
+Regulatory T
+CD4+ T
+CD4+ T
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+CD4+ T
+CD4+ T
+CD3+ T
+Neutrophil
+B cells
+CD4+ T
+Macrophages
+CD4+ T
+B cells
+CD4+ T
+CD8+ T
+CD3+ T
+Neoplastic cells
+Macrophages
+Monocytes and neutrophils mixed subpopulation
+Keratin+ neoplastic cells
+Neoplastic cells
+CD4+ T
+Keratin+ neoplastic cells
+CD4+ T
+CD4+ T
+CD4+ T
+Macrophages
+CD4+ T
+Macrophages
+Neoplastic cells
+CD4+ T
+Neutrophil
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+Regulatory T
+CD8+ T
+Macrophages
+CD8+ T
+B cells
+CD4+ T
+B cells
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+Monocytes and neutrophils mixed subpopulation
+Macrophages
+Macrophages
+CD4+ T
+Keratin+ neoplastic cells
+CD8+ T
+CD4+ T
+CD4+ T
+CD8+ T
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+CD8+ T
+CD8+ T
+Keratin+ neoplastic cells
+CD3+ T
+CD4+ T
+Keratin+ neoplastic cells
+Macrophages
+CD4+ T
+Dendritic cells and monocytes mixed subpopulation
+CD4+ T
+CD4+ T
+Keratin+ neoplastic cells
+CD4+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+Macrophages
+Neoplastic cells
+Neoplastic cells
+Macrophages
+CD4+ T
+Macrophages
+Macrophages
+B cells
+Macrophages
+CD8+ T
+CD8+ T
+Neoplastic cells
+CD8+ T
+Monocytes and neutrophils mixed subpopulation
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+CD4+ T
+CD8+ T
+CD8+ T
+CD4+ T
+CD4+ T
+Macrophages
+Endothelial cells
+CD8+ T
+CD4+ T
+CD4+ T
+B cells
+Macrophages
+Neutrophil
+CD4+ T
+Macrophages
+Macrophages
+Regulatory T
+CD3+ T
+CD8+ T
+CD4+ T
+Monocytes and neutrophils mixed subpopulation
+Regulatory T
+CD8+ T
+CD8+ T
+CD4+ T
+Macrophages
+Neoplastic cells
+Keratin+ neoplastic cells
+CD8+ T
+Macrophages
+Neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+CD4+ T
+CD4+ T
+Keratin+ neoplastic cells
+CD4+ T
+Neoplastic cells
+CD4+ T
+CD8+ T
+CD4+ T
+Keratin+ neoplastic cells
+CD8+ T
+CD4+ T
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+CD8+ T
+CD4+ T
+Other immune cells
+Neoplastic cells
+Monocytes and neutrophils mixed subpopulation
+Macrophages
+B cells
+Monocytes and neutrophils mixed subpopulation
+CD4+ T
+Dendritic cells and monocytes mixed subpopulation
+Macrophages
+Neoplastic cells
+CD8+ T
+CD4+ T
+CD4+ T
+Macrophages
+Neoplastic cells
+Neoplastic cells
+Macrophages
+CD4+ T
+CD4+ T
+Macrophages
+Other immune cells
+CD4+ T
+Other immune cells
+Monocytes and neutrophils mixed subpopulation
+Monocytes and neutrophils mixed subpopulation
+CD8+ T
+Macrophages
+Macrophages
+Other immune cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Other immune cells
+Keratin+ neoplastic cells
+CD4+ T
+CD4+ T
+CD8+ T
+Other immune cells
+Neoplastic cells
+Macrophages
+CD8+ T
+Other immune cells
+CD8+ T
+Other immune cells
+Keratin+ neoplastic cells
+Other immune cells
+B cells
+CD3+ T
+B cells
+Macrophages
+CD3+ T
+CD8+ T
+CD8+ T
+Regulatory T
+Other immune cells
+CD8+ T
+Neoplastic cells
+Other immune cells
+B cells
+Neoplastic cells
+Macrophages
+Regulatory T
+CD8+ T
+CD4+ T
+Macrophages
+Macrophages
+CD8+ T
+Endothelial cells
+CD4+ T
+Other immune cells
+CD3+ T
+CD4+ T
+Other immune cells
+Other immune cells
+Endothelial cells
+Monocytes and neutrophils mixed subpopulation
+Neoplastic cells
+Keratin+ neoplastic cells
+Other immune cells
+CD8+ T
+Macrophages
+CD8+ T
+CD8+ T
+Macrophages
+CD8+ T
+Macrophages
+CD3+ T
+B cells
+Macrophages
+CD8+ T
+CD4+ T
+Endothelial cells
+CD4+ T
+Other immune cells
+Keratin+ neoplastic cells
+CD4+ T
+CD8+ T
+Endothelial cells
+Neoplastic cells
+Keratin+ neoplastic cells
+Macrophages
+Monocytes and neutrophils mixed subpopulation
+Monocytes and neutrophils mixed subpopulation
+CD4+ T
+CD8+ T
+Other immune cells
+B cells
+CD3+ T
+Macrophages
+CD3+ T
+CD4+ T
+Neoplastic cells
+CD4+ T
+Keratin+ neoplastic cells
+CD8+ T
+Neoplastic cells
+CD4+ T
+Macrophages
+Macrophages
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+Macrophages
+Neoplastic cells
+CD4+ T
+Neoplastic cells
+Macrophages
+Regulatory T
+CD4+ T
+CD4+ T
+Neutrophil
+Other immune cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Regulatory T
+Endothelial cells
+CD8+ T
+Neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+CD8+ T
+CD8+ T
+Macrophages
+Monocytes and neutrophils mixed subpopulation
+CD4+ T
+CD8+ T
+CD8+ T
+Macrophages
+CD8+ T
+Neoplastic cells
+Macrophages
+B cells
+CD4+ T
+Macrophages
+Macrophages
+CD4+ T
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+CD8+ T
+CD8+ T
+CD4+ T
+Neoplastic cells
+Keratin+ neoplastic cells
+CD4+ T
+CD8+ T
+Neoplastic cells
+Other immune cells
+Macrophages
+Regulatory T
+B cells
+Keratin+ neoplastic cells
+CD8+ T
+Neoplastic cells
+CD8+ T
+CD8+ T
+CD4+ T
+CD8+ T
+CD8+ T
+CD8+ T
+Other immune cells
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+CD4+ T
+CD8+ T
+CD4+ T
+Other immune cells
+Other immune cells
+Macrophages
+CD8+ T
+Regulatory T
+B cells
+Other immune cells
+CD3+ T
+Macrophages
+CD4+ T
+CD4+ T
+CD8+ T
+Regulatory T
+CD8+ T
+Macrophages
+Keratin+ neoplastic cells
+CD8+ T
+Other immune cells
+B cells
+Monocytes and neutrophils mixed subpopulation
+CD4+ T
+CD4+ T
+Other immune cells
+Neoplastic cells
+Macrophages
+Neoplastic cells
+Other immune cells
+CD3+ T
+Neutrophil
+Other immune cells
+CD8+ T
+B cells
+CD4+ T
+CD4+ T
+Endothelial cells
+CD8+ T
+Endothelial cells
+Macrophages
+Other immune cells
+CD4+ T
+CD4+ T
+Monocytes and neutrophils mixed subpopulation
+Other immune cells
+Monocytes and neutrophils mixed subpopulation
+Other immune cells
+CD8+ T
+CD8+ T
+Neutrophil
+B cells
+Neoplastic cells
+CD8+ T
+CD8+ T
+CD4+ T
+Other immune cells
+Macrophages
+Macrophages
+Neoplastic cells
+CD4+ T
+Macrophages
+Other immune cells
+CD4+ T
+Keratin+ neoplastic cells
+Macrophages
+Other immune cells
+Other immune cells
+Other immune cells
+Monocytes and neutrophils mixed subpopulation
+CD4+ T
+B cells
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+Monocytes and neutrophils mixed subpopulation
+CD4+ T
+CD8+ T
+CD4+ T
+CD4+ T
+Other immune cells
+Other immune cells
+Regulatory T
+CD4+ T
+Other immune cells
+Keratin+ neoplastic cells
+CD4+ T
+CD8+ T
+Neutrophil
+Other immune cells
+CD8+ T
+Other immune cells
+Other immune cells
+Neoplastic cells
+CD4+ T
+Regulatory T
+CD4+ T
+Neutrophil
+Monocytes and neutrophils mixed subpopulation
+Macrophages
+CD4+ T
+CD8+ T
+Neoplastic cells
+Macrophages
+Other immune cells
+CD4+ T
+Other immune cells
+Neoplastic cells
+CD4+ T
+CD8+ T
+CD8+ T
+Macrophages
+B cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Macrophages
+Dendritic cells and monocytes mixed subpopulation
+Regulatory T
+CD4+ T
+CD4+ T
+CD4+ T
+Neoplastic cells
+Regulatory T
+CD4+ T
+Neoplastic cells
+Macrophages
+CD4+ T
+CD4+ T
+Regulatory T
+B cells
+CD4+ T
+CD8+ T
+Macrophages
+Regulatory T
+CD3+ T
+Monocytes and neutrophils mixed subpopulation
+CD4+ T
+Macrophages
+Neoplastic cells
+CD8+ T
+Neutrophil
+Neoplastic cells
+Other immune cells
+Monocytes and neutrophils mixed subpopulation
+Monocytes and neutrophils mixed subpopulation
+CD8+ T
+Macrophages
+Macrophages
+B cells
+Macrophages
+Neoplastic cells
+CD4+ T
+B cells
+Other immune cells
+Neoplastic cells
+Macrophages
+Macrophages
+CD4+ T
+Monocytes and neutrophils mixed subpopulation
+CD8+ T
+CD4+ T
+CD4+ T
+Dendritic cells and monocytes mixed subpopulation
+CD8+ T
+Macrophages
+Monocytes and neutrophils mixed subpopulation
+CD4+ T
+CD4+ T
+Regulatory T
+Other immune cells
+CD8+ T
+CD4+ T
+B cells
+CD4+ T
+CD4+ T
+Keratin+ neoplastic cells
+Macrophages
+Monocytes and neutrophils mixed subpopulation
+Macrophages
+CD4+ T
+CD4+ T
+B cells
+CD8+ T
+Other immune cells
+Macrophages
+CD4+ T
+Macrophages
+B cells
+Monocytes and neutrophils mixed subpopulation
+CD4+ T
+Macrophages
+CD4+ T
+CD4+ T
+Macrophages
+CD8+ T
+Other immune cells
+CD4+ T
+CD4+ T
+Neoplastic cells
+CD4+ T
+Neoplastic cells
+Keratin+ neoplastic cells
+CD8+ T
+Monocytes and neutrophils mixed subpopulation
+CD4+ T
+B cells
+Neoplastic cells
+CD4+ T
+CD4+ T
+Other immune cells
+Neoplastic cells
+Monocytes and neutrophils mixed subpopulation
+CD8+ T
+Macrophages
+CD4+ T
+Other immune cells
+B cells
+Neoplastic cells
+CD3+ T
+CD8+ T
+Other immune cells
+CD4+ T
+CD4+ T
+CD8+ T
+CD8+ T
+Macrophages
+Neoplastic cells
+CD8+ T
+Neutrophil
+Macrophages
+Keratin+ neoplastic cells
+CD4+ T
+B cells
+Neoplastic cells
+CD4+ T
+CD4+ T
+Other immune cells
+CD8+ T
+Macrophages
+Other immune cells
+CD4+ T
+Neutrophil
+Neoplastic cells
+B cells
+CD8+ T
+Neoplastic cells
+CD3+ T
+CD8+ T
+CD4+ T
+Other immune cells
+CD4+ T
+CD8+ T
+Monocytes and neutrophils mixed subpopulation
+CD4+ T
+CD4+ T
+Macrophages
+CD8+ T
+Neoplastic cells
+Macrophages
+Macrophages
+Monocytes and neutrophils mixed subpopulation
+Neoplastic cells
+CD8+ T
+CD8+ T
+CD4+ T
+Macrophages
+CD4+ T
+CD8+ T
+Macrophages
+CD8+ T
+Macrophages
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+Macrophages
+Macrophages
+Endothelial cells
+CD4+ T
+Neutrophil
+Keratin+ neoplastic cells
+CD4+ T
+Neoplastic cells
+CD4+ T
+CD4+ T
+Neutrophil
+Other immune cells
+CD4+ T
+CD8+ T
+Neutrophil
+CD8+ T
+CD8+ T
+Monocytes and neutrophils mixed subpopulation
+CD3+ T
+CD8+ T
+Neoplastic cells
+Other immune cells
+CD4+ T
+Macrophages
+Monocytes and neutrophils mixed subpopulation
+Monocytes and neutrophils mixed subpopulation
+Regulatory T
+Dendritic cells and monocytes mixed subpopulation
+CD3+ T
+Neoplastic cells
+Other immune cells
+Macrophages
+Macrophages
+CD4+ T
+Neoplastic cells
+CD4+ T
+Regulatory T
+Monocytes and neutrophils mixed subpopulation
+Macrophages
+Neoplastic cells
+Other immune cells
+Other immune cells
+Unknown subpopulation
+CD4+ T
+B cells
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+Monocytes and neutrophils mixed subpopulation
+Neoplastic cells
+CD4+ T
+CD8+ T
+CD8+ T
+Neoplastic cells
+CD4+ T
+Macrophages
+Monocytes and neutrophils mixed subpopulation
+CD4+ T
+Endothelial cells
+CD8+ T
+CD8+ T
+Neutrophil
+Neoplastic cells
+CD8+ T
+Neutrophil
+B cells
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+CD8+ T
+Endothelial cells
+Monocytes and neutrophils mixed subpopulation
+CD8+ T
+CD8+ T
+Other immune cells
+CD3+ T
+CD4+ T
+B cells
+CD4+ T
+Neoplastic cells
+Macrophages
+CD3+ T
+Neoplastic cells
+CD4+ T
+Monocytes and neutrophils mixed subpopulation
+CD8+ T
+Keratin+ neoplastic cells
+CD4+ T
+CD4+ T
+Neoplastic cells
+Macrophages
+Macrophages
+CD4+ T
+Neoplastic cells
+CD8+ T
+Neutrophil
+CD8+ T
+CD4+ T
+Macrophages
+CD8+ T
+CD8+ T
+Endothelial cells
+CD4+ T
+Dendritic cells and monocytes mixed subpopulation
+CD8+ T
+Macrophages
+Other immune cells
+Other immune cells
+CD4+ T
+CD4+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+CD4+ T
+CD8+ T
+CD3+ T
+Macrophages
+CD4+ T
+Monocytes and neutrophils mixed subpopulation
+Endothelial cells
+Neoplastic cells
+CD8+ T
+CD4+ T
+Keratin+ neoplastic cells
+B cells
+CD4+ T
+Neoplastic cells
+Endothelial cells
+Neutrophil
+CD8+ T
+Endothelial cells
+CD4+ T
+CD8+ T
+Other immune cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+CD4+ T
+CD3+ T
+CD8+ T
+Other immune cells
+Other immune cells
+Neoplastic cells
+Macrophages
+Other immune cells
+CD8+ T
+CD8+ T
+Neoplastic cells
+CD4+ T
+CD4+ T
+Neoplastic cells
+CD4+ T
+CD4+ T
+CD4+ T
+CD8+ T
+Macrophages
+CD4+ T
+Monocytes and neutrophils mixed subpopulation
+Neoplastic cells
+Macrophages
+CD4+ T
+Endothelial cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Macrophages
+Neoplastic cells
+CD8+ T
+Macrophages
+CD8+ T
+Macrophages
+Macrophages
+Neutrophil
+CD4+ T
+Keratin+ neoplastic cells
+CD4+ T
+Macrophages
+CD8+ T
+Keratin+ neoplastic cells
+CD4+ T
+Neutrophil
+Dendritic cells and monocytes mixed subpopulation
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+CD8+ T
+Neoplastic cells
+Neutrophil
+CD8+ T
+CD4+ T
+Endothelial cells
+Monocytes and neutrophils mixed subpopulation
+CD8+ T
+CD8+ T
+Neutrophil
+Neoplastic cells
+CD8+ T
+Keratin+ neoplastic cells
+CD8+ T
+Macrophages
+CD8+ T
+Neoplastic cells
+CD4+ T
+Monocytes and neutrophils mixed subpopulation
+CD8+ T
+Other immune cells
+Neoplastic cells
+Dendritic cells and monocytes mixed subpopulation
+Neoplastic cells
+Macrophages
+Neutrophil
+CD4+ T
+CD8+ T
+Monocytes and neutrophils mixed subpopulation
+Neoplastic cells
+Macrophages
+Neoplastic cells
+Macrophages
+Monocytes and neutrophils mixed subpopulation
+Neoplastic cells
+Keratin+ neoplastic cells
+Other immune cells
+Macrophages
+Monocytes and neutrophils mixed subpopulation
+CD4+ T
+Macrophages
+CD8+ T
+Neoplastic cells
+Endothelial cells
+Endothelial cells
+Macrophages
+Neoplastic cells
+CD4+ T
+Macrophages
+CD4+ T
+Neoplastic cells
+Other immune cells
+Keratin+ neoplastic cells
+CD8+ T
+CD4+ T
+CD8+ T
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+Macrophages
+Macrophages
+Macrophages
+Macrophages
+CD8+ T
+Neoplastic cells
+Macrophages
+Macrophages
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+Macrophages
+Macrophages
+Neoplastic cells
+Endothelial cells
+CD8+ T
+B cells
+CD8+ T
+CD4+ T
+B cells
+Neoplastic cells
+Neoplastic cells
+Endothelial cells
+Macrophages
+CD8+ T
+Macrophages
+Neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Other immune cells
+Macrophages
+Macrophages
+Macrophages
+Neoplastic cells
+Macrophages
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+Macrophages
+Macrophages
+Macrophages
+CD8+ T
+CD8+ T
+CD8+ T
+Neoplastic cells
+CD4+ T
+Macrophages
+Macrophages
+CD3+ T
+CD3+ T
+CD8+ T
+CD8+ T
+Neoplastic cells
+Other immune cells
+Macrophages
+CD8+ T
+CD8+ T
+Macrophages
+Macrophages
+Neoplastic cells
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+B cells
+Endothelial cells
+Macrophages
+CD3+ T
+Macrophages
+CD4+ T
+CD8+ T
+Keratin+ neoplastic cells
+Macrophages
+Neoplastic cells
+Endothelial cells
+Macrophages
+Macrophages
+Regulatory T
+B cells
+Dendritic cells and monocytes mixed subpopulation
+Neoplastic cells
+Macrophages
+B cells
+Endothelial cells
+Regulatory T
+Neoplastic cells
+Neoplastic cells
+Monocytes and neutrophils mixed subpopulation
+Neoplastic cells
+CD8+ T
+CD4+ T
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Other immune cells
+Other immune cells
+Macrophages
+CD8+ T
+CD3+ T
+CD4+ T
+CD8+ T
+Neoplastic cells
+CD8+ T
+CD8+ T
+Macrophages
+CD8+ T
+Monocytes and neutrophils mixed subpopulation
+Macrophages
+Monocytes and neutrophils mixed subpopulation
+Neoplastic cells
+Neoplastic cells
+Macrophages
+Other immune cells
+Other immune cells
+Other immune cells
+Neoplastic cells
+CD3+ T
+CD4+ T
+CD4+ T
+Neoplastic cells
+Other immune cells
+CD8+ T
+Macrophages
+Neoplastic cells
+CD8+ T
+Neoplastic cells
+CD4+ T
+Neoplastic cells
+Neoplastic cells
+B cells
+Macrophages
+CD8+ T
+Endothelial cells
+Macrophages
+CD8+ T
+Monocytes and neutrophils mixed subpopulation
+CD8+ T
+Macrophages
+Monocytes and neutrophils mixed subpopulation
+CD8+ T
+Other immune cells
+CD4+ T
+CD3+ T
+CD3+ T
+Neoplastic cells
+Neoplastic cells
+Endothelial cells
+CD8+ T
+Neoplastic cells
+Endothelial cells
+CD3+ T
+Neoplastic cells
+CD8+ T
+CD4+ T
+Keratin+ neoplastic cells
+Macrophages
+Monocytes and neutrophils mixed subpopulation
+Neutrophil
+Neoplastic cells
+Endothelial cells
+B cells
+Monocytes and neutrophils mixed subpopulation
+Neoplastic cells
+Neoplastic cells
+B cells
+Macrophages
+CD8+ T
+Macrophages
+Macrophages
+CD8+ T
+Keratin+ neoplastic cells
+CD8+ T
+Macrophages
+CD8+ T
+CD4+ T
+CD8+ T
+CD4+ T
+CD8+ T
+CD8+ T
+CD4+ T
+Neoplastic cells
+CD8+ T
+CD8+ T
+Neutrophil
+Neutrophil
+Endothelial cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Macrophages
+Endothelial cells
+CD4+ T
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+CD8+ T
+CD3+ T
+Neoplastic cells
+CD8+ T
+Macrophages
+Macrophages
+CD4+ T
+CD8+ T
+B cells
+Other immune cells
+Other immune cells
+CD8+ T
+Macrophages
+CD8+ T
+Macrophages
+Monocytes and neutrophils mixed subpopulation
+Neoplastic cells
+Macrophages
+CD3+ T
+Neoplastic cells
+B cells
+CD3+ T
+CD8+ T
+Neoplastic cells
+CD8+ T
+Macrophages
+CD4+ T
+CD8+ T
+CD8+ T
+Neoplastic cells
+CD4+ T
+Monocytes and neutrophils mixed subpopulation
+CD8+ T
+Macrophages
+CD8+ T
+CD3+ T
+Neoplastic cells
+Macrophages
+Macrophages
+Keratin+ neoplastic cells
+CD4+ T
+CD8+ T
+Macrophages
+CD3+ T
+CD8+ T
+Neoplastic cells
+Neutrophil
+Keratin+ neoplastic cells
+Monocytes and neutrophils mixed subpopulation
+Neoplastic cells
+CD4+ T
+Neoplastic cells
+Regulatory T
+Macrophages
+Monocytes and neutrophils mixed subpopulation
+Regulatory T
+Other immune cells
+CD8+ T
+CD8+ T
+CD4+ T
+CD3+ T
+Neoplastic cells
+Macrophages
+Neoplastic cells
+CD8+ T
+Macrophages
+Keratin+ neoplastic cells
+B cells
+CD8+ T
+CD8+ T
+Monocytes and neutrophils mixed subpopulation
+Other immune cells
+CD8+ T
+Neoplastic cells
+CD8+ T
+Neoplastic cells
+Macrophages
+CD8+ T
+Other immune cells
+CD3+ T
+CD4+ T
+Other immune cells
+CD4+ T
+Macrophages
+Macrophages
+CD4+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+CD8+ T
+Neoplastic cells
+CD4+ T
+B cells
+Macrophages
+Macrophages
+CD4+ T
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+CD3+ T
+CD3+ T
+Neutrophil
+Endothelial cells
+Dendritic cells and monocytes mixed subpopulation
+Neoplastic cells
+Other immune cells
+CD8+ T
+Monocytes and neutrophils mixed subpopulation
+CD8+ T
+Macrophages
+CD8+ T
+CD3+ T
+Macrophages
+CD8+ T
+Keratin+ neoplastic cells
+CD8+ T
+CD3+ T
+CD8+ T
+CD8+ T
+Regulatory T
+CD8+ T
+Regulatory T
+CD8+ T
+CD8+ T
+CD8+ T
+B cells
+Neoplastic cells
+CD3+ T
+CD4+ T
+Neutrophil
+CD4+ T
+CD4+ T
+Other immune cells
+Other immune cells
+Macrophages
+CD8+ T
+Neoplastic cells
+CD4+ T
+CD8+ T
+CD8+ T
+Macrophages
+Macrophages
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+CD8+ T
+Monocytes and neutrophils mixed subpopulation
+Neoplastic cells
+CD8+ T
+CD4+ T
+Other immune cells
+CD3+ T
+Neoplastic cells
+Other immune cells
+CD4+ T
+Monocytes and neutrophils mixed subpopulation
+Macrophages
+Keratin+ neoplastic cells
+Neoplastic cells
+CD8+ T
+Macrophages
+Neoplastic cells
+Neoplastic cells
+CD3+ T
+Keratin+ neoplastic cells
+CD8+ T
+Neoplastic cells
+Macrophages
+Monocytes and neutrophils mixed subpopulation
+CD4+ T
+CD8+ T
+Regulatory T
+CD3+ T
+CD4+ T
+Macrophages
+Macrophages
+CD8+ T
+CD3+ T
+Neoplastic cells
+Macrophages
+Monocytes and neutrophils mixed subpopulation
+CD4+ T
+CD3+ T
+Neoplastic cells
+Monocytes and neutrophils mixed subpopulation
+Neoplastic cells
+CD4+ T
+Macrophages
+Monocytes and neutrophils mixed subpopulation
+Neoplastic cells
+Macrophages
+Neoplastic cells
+CD3+ T
+Regulatory T
+Monocytes and neutrophils mixed subpopulation
+CD3+ T
+CD8+ T
+CD4+ T
+CD3+ T
+Neoplastic cells
+Regulatory T
+Neutrophil
+CD4+ T
+Neoplastic cells
+CD8+ T
+Neoplastic cells
+Regulatory T
+CD4+ T
+CD3+ T
+Neoplastic cells
+CD4+ T
+CD3+ T
+CD8+ T
+CD3+ T
+Neoplastic cells
+Endothelial cells
+CD3+ T
+Macrophages
+Monocytes and neutrophils mixed subpopulation
+CD3+ T
+Macrophages
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+Monocytes and neutrophils mixed subpopulation
+Monocytes and neutrophils mixed subpopulation
+CD8+ T
+CD8+ T
+Macrophages
+Neoplastic cells
+Keratin+ neoplastic cells
+Macrophages
+Neoplastic cells
+Other immune cells
+CD8+ T
+CD8+ T
+CD8+ T
+Neoplastic cells
+Keratin+ neoplastic cells
+CD8+ T
+CD4+ T
+Monocytes and neutrophils mixed subpopulation
+Neutrophil
+Neoplastic cells
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+CD8+ T
+Macrophages
+Neoplastic cells
+Other immune cells
+CD8+ T
+CD8+ T
+CD4+ T
+Neoplastic cells
+CD8+ T
+CD8+ T
+CD3+ T
+CD3+ T
+Neoplastic cells
+CD4+ T
+Neoplastic cells
+Regulatory T
+Macrophages
+Neoplastic cells
+CD8+ T
+Neoplastic cells
+CD4+ T
+Macrophages
+Macrophages
+CD3+ T
+CD8+ T
+Macrophages
+Other immune cells
+Neoplastic cells
+Monocytes and neutrophils mixed subpopulation
+Neoplastic cells
+Neoplastic cells
+CD3+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Macrophages
+Monocytes and neutrophils mixed subpopulation
+CD8+ T
+Neoplastic cells
+Neutrophil
+Keratin+ neoplastic cells
+CD8+ T
+Neoplastic cells
+CD4+ T
+Neutrophil
+CD8+ T
+Neoplastic cells
+CD3+ T
+CD3+ T
+Neoplastic cells
+Macrophages
+CD4+ T
+Macrophages
+Neoplastic cells
+Regulatory T
+B cells
+Keratin+ neoplastic cells
+Macrophages
+Macrophages
+Endothelial cells
+CD3+ T
+Other immune cells
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+CD3+ T
+CD3+ T
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+CD4+ T
+Neoplastic cells
+CD4+ T
+Neutrophil
+Other immune cells
+CD8+ T
+CD3+ T
+CD8+ T
+Neoplastic cells
+B cells
+Monocytes and neutrophils mixed subpopulation
+Other immune cells
+CD8+ T
+Neoplastic cells
+CD8+ T
+Other immune cells
+CD8+ T
+Neoplastic cells
+Other immune cells
+B cells
+Neoplastic cells
+CD4+ T
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+CD8+ T
+CD8+ T
+CD8+ T
+Neoplastic cells
+CD8+ T
+B cells
+CD8+ T
+Neoplastic cells
+CD8+ T
+B cells
+B cells
+CD8+ T
+Macrophages
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Regulatory T
+CD8+ T
+B cells
+Neoplastic cells
+Neoplastic cells
+Regulatory T
+Monocytes and neutrophils mixed subpopulation
+Neoplastic cells
+Other immune cells
+Endothelial cells
+Macrophages
+Macrophages
+Neoplastic cells
+CD8+ T
+Macrophages
+Macrophages
+Neoplastic cells
+Regulatory T
+Neoplastic cells
+Monocytes and neutrophils mixed subpopulation
+Monocytes and neutrophils mixed subpopulation
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+B cells
+Regulatory T
+Other immune cells
+CD8+ T
+Regulatory T
+Endothelial cells
+CD8+ T
+Regulatory T
+Neoplastic cells
+CD8+ T
+Neoplastic cells
+Other immune cells
+B cells
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+CD8+ T
+Other immune cells
+CD8+ T
+CD4+ T
+Macrophages
+B cells
+Endothelial cells
+Macrophages
+CD8+ T
+CD4+ T
+CD8+ T
+CD4+ T
+CD8+ T
+Other immune cells
+Other immune cells
+Other immune cells
+Regulatory T
+Macrophages
+Neoplastic cells
+CD8+ T
+Macrophages
+Macrophages
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neutrophil
+Macrophages
+Macrophages
+Other immune cells
+CD4+ T
+CD8+ T
+CD8+ T
+Other immune cells
+Neoplastic cells
+Neoplastic cells
+Macrophages
+CD8+ T
+CD4+ T
+Neoplastic cells
+Other immune cells
+Endothelial cells
+Macrophages
+Neoplastic cells
+Neutrophil
+Neoplastic cells
+Macrophages
+CD8+ T
+Other immune cells
+CD8+ T
+CD8+ T
+Neoplastic cells
+CD8+ T
+Monocytes and neutrophils mixed subpopulation
+Macrophages
+CD4+ T
+Neoplastic cells
+CD8+ T
+CD4+ T
+Neoplastic cells
+Neoplastic cells
+Macrophages
+CD8+ T
+CD8+ T
+CD4+ T
+Other immune cells
+Neoplastic cells
+CD3+ T
+CD8+ T
+CD4+ T
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+Other immune cells
+Macrophages
+Monocytes and neutrophils mixed subpopulation
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+CD4+ T
+CD4+ T
+Monocytes and neutrophils mixed subpopulation
+CD4+ T
+Macrophages
+Macrophages
+CD3+ T
+Neutrophil
+CD4+ T
+CD8+ T
+Neoplastic cells
+Macrophages
+CD3+ T
+CD8+ T
+CD4+ T
+Macrophages
+Neoplastic cells
+B cells
+Regulatory T
+Neoplastic cells
+Other immune cells
+CD8+ T
+Regulatory T
+CD8+ T
+CD3+ T
+CD8+ T
+CD4+ T
+CD8+ T
+Neoplastic cells
+CD4+ T
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+CD8+ T
+CD8+ T
+Monocytes and neutrophils mixed subpopulation
+Macrophages
+Neoplastic cells
+Unknown subpopulation
+CD8+ T
+Endothelial cells
+Neoplastic cells
+CD8+ T
+CD8+ T
+Neoplastic cells
+CD3+ T
+Neoplastic cells
+B cells
+B cells
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+CD8+ T
+CD8+ T
+CD4+ T
+CD8+ T
+Neoplastic cells
+Other immune cells
+CD8+ T
+Macrophages
+Neoplastic cells
+Other immune cells
+Macrophages
+Macrophages
+Macrophages
+CD4+ T
+Neoplastic cells
+Macrophages
+CD4+ T
+Neoplastic cells
+Other immune cells
+Other immune cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Monocytes and neutrophils mixed subpopulation
+Keratin+ neoplastic cells
+Neoplastic cells
+Macrophages
+Neoplastic cells
+Endothelial cells
+Macrophages
+Neoplastic cells
+Other immune cells
+CD8+ T
+Other immune cells
+Macrophages
+CD8+ T
+Other immune cells
+Macrophages
+Other immune cells
+Other immune cells
+CD8+ T
+CD8+ T
+Macrophages
+Neoplastic cells
+CD3+ T
+Neoplastic cells
+CD4+ T
+Neoplastic cells
+CD8+ T
+Neoplastic cells
+CD3+ T
+CD4+ T
+CD8+ T
+CD8+ T
+CD8+ T
+Neoplastic cells
+Other immune cells
+CD8+ T
+B cells
+Neoplastic cells
+Macrophages
+Macrophages
+Keratin+ neoplastic cells
+CD8+ T
+Neoplastic cells
+CD8+ T
+CD8+ T
+Neoplastic cells
+Monocytes and neutrophils mixed subpopulation
+CD8+ T
+Macrophages
+Other immune cells
+CD8+ T
+Neoplastic cells
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+Other immune cells
+Other immune cells
+Monocytes and neutrophils mixed subpopulation
+Other immune cells
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+Macrophages
+Neoplastic cells
+CD4+ T
+Other immune cells
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+Macrophages
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+B cells
+CD8+ T
+Other immune cells
+CD8+ T
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+Monocytes and neutrophils mixed subpopulation
+CD3+ T
+Macrophages
+CD8+ T
+Neoplastic cells
+CD8+ T
+Endothelial cells
+Monocytes and neutrophils mixed subpopulation
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+Neoplastic cells
+B cells
+CD4+ T
+Macrophages
+CD8+ T
+Other immune cells
+Neoplastic cells
+Monocytes and neutrophils mixed subpopulation
+CD8+ T
+CD3+ T
+Regulatory T
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+Other immune cells
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+Keratin+ neoplastic cells
+Endothelial cells
+CD4+ T
+Macrophages
+Macrophages
+CD8+ T
+Neoplastic cells
+Other immune cells
+Other immune cells
+CD8+ T
+Monocytes and neutrophils mixed subpopulation
+Macrophages
+Macrophages
+Macrophages
+Macrophages
+Macrophages
+Neoplastic cells
+CD4+ T
+Macrophages
+CD4+ T
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Macrophages
+CD3+ T
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+CD3+ T
+Neoplastic cells
+Macrophages
+CD8+ T
+B cells
+Macrophages
+Neoplastic cells
+CD4+ T
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+Regulatory T
+Neoplastic cells
+Other immune cells
+Keratin+ neoplastic cells
+Other immune cells
+CD8+ T
+CD8+ T
+Keratin+ neoplastic cells
+CD8+ T
+Macrophages
+CD8+ T
+Neoplastic cells
+B cells
+B cells
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+CD4+ T
+Other immune cells
+Monocytes and neutrophils mixed subpopulation
+CD8+ T
+Neoplastic cells
+CD8+ T
+Macrophages
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+CD8+ T
+Macrophages
+Endothelial cells
+Macrophages
+CD4+ T
+CD4+ T
+Neoplastic cells
+B cells
+Macrophages
+CD3+ T
+Neoplastic cells
+Macrophages
+Neoplastic cells
+Neoplastic cells
+Macrophages
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+Monocytes and neutrophils mixed subpopulation
+CD4+ T
+Neoplastic cells
+CD4+ T
+CD8+ T
+Neoplastic cells
+CD8+ T
+CD3+ T
+Neoplastic cells
+Macrophages
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Macrophages
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Monocytes and neutrophils mixed subpopulation
+Macrophages
+Other immune cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Macrophages
+B cells
+CD8+ T
+CD4+ T
+CD8+ T
+Other immune cells
+Neoplastic cells
+B cells
+CD3+ T
+Neoplastic cells
+Macrophages
+Other immune cells
+Macrophages
+Macrophages
+Neoplastic cells
+Macrophages
+Other immune cells
+CD4+ T
+CD8+ T
+Macrophages
+CD4+ T
+Keratin+ neoplastic cells
+CD8+ T
+CD8+ T
+CD8+ T
+CD3+ T
+Neoplastic cells
+CD4+ T
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Regulatory T
+Other immune cells
+CD3+ T
+CD8+ T
+CD4+ T
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Macrophages
+CD4+ T
+CD3+ T
+Regulatory T
+CD4+ T
+Macrophages
+Regulatory T
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+CD4+ T
+CD8+ T
+Macrophages
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+Monocytes and neutrophils mixed subpopulation
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD3+ T
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+CD4+ T
+CD8+ T
+Neoplastic cells
+Macrophages
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+Regulatory T
+Endothelial cells
+Neoplastic cells
+Other immune cells
+CD4+ T
+Neoplastic cells
+CD4+ T
+Monocytes and neutrophils mixed subpopulation
+Monocytes and neutrophils mixed subpopulation
+Macrophages
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+CD4+ T
+Neoplastic cells
+CD8+ T
+CD8+ T
+Unknown subpopulation
+Neoplastic cells
+Neoplastic cells
+B cells
+CD8+ T
+CD3+ T
+Neutrophil
+Neoplastic cells
+Other immune cells
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+Macrophages
+CD8+ T
+Macrophages
+CD8+ T
+Macrophages
+Neoplastic cells
+Macrophages
+CD8+ T
+CD8+ T
+B cells
+CD8+ T
+CD4+ T
+Monocytes and neutrophils mixed subpopulation
+CD8+ T
+Neoplastic cells
+Macrophages
+CD4+ T
+Macrophages
+Neutrophil
+CD4+ T
+CD4+ T
+Macrophages
+CD4+ T
+CD8+ T
+Neutrophil
+Neoplastic cells
+Macrophages
+CD8+ T
+Neoplastic cells
+CD4+ T
+CD3+ T
+Neoplastic cells
+Macrophages
+CD8+ T
+CD4+ T
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+Macrophages
+B cells
+Neoplastic cells
+CD8+ T
+Other immune cells
+Neoplastic cells
+Monocytes and neutrophils mixed subpopulation
+CD4+ T
+CD4+ T
+Neoplastic cells
+Neoplastic cells
+B cells
+CD8+ T
+CD4+ T
+Neoplastic cells
+Macrophages
+Macrophages
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+B cells
+Neoplastic cells
+CD8+ T
+CD8+ T
+Neoplastic cells
+Other immune cells
+Macrophages
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+Macrophages
+CD4+ T
+CD3+ T
+Neoplastic cells
+CD8+ T
+Keratin+ neoplastic cells
+CD4+ T
+CD3+ T
+B cells
+CD4+ T
+CD8+ T
+Macrophages
+CD8+ T
+Other immune cells
+CD4+ T
+Neoplastic cells
+Neoplastic cells
+Macrophages
+Macrophages
+CD8+ T
+B cells
+CD4+ T
+Regulatory T
+Neoplastic cells
+Regulatory T
+CD4+ T
+CD8+ T
+CD3+ T
+CD4+ T
+B cells
+Macrophages
+CD8+ T
+Keratin+ neoplastic cells
+Other immune cells
+Neoplastic cells
+Macrophages
+B cells
+Monocytes and neutrophils mixed subpopulation
+Macrophages
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Monocytes and neutrophils mixed subpopulation
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+Neoplastic cells
+Regulatory T
+CD3+ T
+Neoplastic cells
+Macrophages
+Monocytes and neutrophils mixed subpopulation
+Macrophages
+Monocytes and neutrophils mixed subpopulation
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+B cells
+Neoplastic cells
+CD8+ T
+Monocytes and neutrophils mixed subpopulation
+Other immune cells
+Neoplastic cells
+Other immune cells
+CD4+ T
+CD4+ T
+Neoplastic cells
+Neoplastic cells
+B cells
+Macrophages
+CD8+ T
+CD4+ T
+CD8+ T
+Other immune cells
+B cells
+CD3+ T
+Neoplastic cells
+Other immune cells
+Macrophages
+Neoplastic cells
+Neoplastic cells
+Macrophages
+Neoplastic cells
+Macrophages
+Macrophages
+CD8+ T
+CD8+ T
+Neoplastic cells
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD3+ T
+CD8+ T
+CD3+ T
+Macrophages
+CD4+ T
+CD4+ T
+Macrophages
+Other immune cells
+Other immune cells
+Macrophages
+Macrophages
+CD8+ T
+CD3+ T
+Unknown subpopulation
+Neoplastic cells
+Monocytes and neutrophils mixed subpopulation
+Neoplastic cells
+Neoplastic cells
+B cells
+CD4+ T
+Other immune cells
+Macrophages
+CD3+ T
+Keratin+ neoplastic cells
+Regulatory T
+Neoplastic cells
+Other immune cells
+CD8+ T
+Neoplastic cells
+CD8+ T
+Monocytes and neutrophils mixed subpopulation
+Macrophages
+Neoplastic cells
+CD8+ T
+CD3+ T
+CD4+ T
+Neoplastic cells
+CD8+ T
+Macrophages
+Macrophages
+Unknown subpopulation
+Macrophages
+Monocytes and neutrophils mixed subpopulation
+Keratin+ neoplastic cells
+B cells
+Macrophages
+B cells
+Monocytes and neutrophils mixed subpopulation
+CD3+ T
+Unknown subpopulation
+CD4+ T
+Neoplastic cells
+CD8+ T
+Other immune cells
+CD4+ T
+CD8+ T
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+B cells
+CD3+ T
+Neoplastic cells
+B cells
+CD3+ T
+B cells
+CD4+ T
+Regulatory T
+Macrophages
+CD4+ T
+CD8+ T
+Unknown subpopulation
+CD3+ T
+Macrophages
+CD8+ T
+B cells
+CD4+ T
+B cells
+CD4+ T
+Macrophages
+CD3+ T
+Monocytes and neutrophils mixed subpopulation
+CD3+ T
+B cells
+CD3+ T
+Macrophages
+CD8+ T
+CD4+ T
+Monocytes and neutrophils mixed subpopulation
+Macrophages
+CD8+ T
+Unknown subpopulation
+CD8+ T
+CD8+ T
+Macrophages
+Macrophages
+Neoplastic cells
+CD3+ T
+Neoplastic cells
+CD8+ T
+CD3+ T
+Other immune cells
+CD3+ T
+Macrophages
+Neoplastic cells
+CD8+ T
+CD4+ T
+Regulatory T
+CD4+ T
+Macrophages
+Keratin+ neoplastic cells
+CD4+ T
+Other immune cells
+Other immune cells
+Neoplastic cells
+Neoplastic cells
+B cells
+Neoplastic cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Other immune cells
+CD3+ T
+CD8+ T
+Other immune cells
+Neoplastic cells
+B cells
+Macrophages
+Other immune cells
+Neoplastic cells
+CD3+ T
+Macrophages
+CD3+ T
+CD4+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+Macrophages
+CD3+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Regulatory T
+CD3+ T
+Neoplastic cells
+CD4+ T
+Macrophages
+Macrophages
+Neoplastic cells
+Endothelial cells
+CD8+ T
+B cells
+Other immune cells
+Other immune cells
+CD4+ T
+Neoplastic cells
+CD8+ T
+Keratin+ neoplastic cells
+Other immune cells
+CD8+ T
+Macrophages
+Keratin+ neoplastic cells
+CD4+ T
+Regulatory T
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+Other immune cells
+Other immune cells
+CD4+ T
+CD8+ T
+CD8+ T
+Neoplastic cells
+B cells
+Monocytes and neutrophils mixed subpopulation
+Macrophages
+CD3+ T
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+Other immune cells
+Other immune cells
+Other immune cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+CD3+ T
+CD3+ T
+CD4+ T
+Macrophages
+Macrophages
+CD4+ T
+CD3+ T
+Other immune cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+CD3+ T
+Neoplastic cells
+Macrophages
+CD8+ T
+CD4+ T
+CD4+ T
+Keratin+ neoplastic cells
+CD4+ T
+Other immune cells
+CD8+ T
+Macrophages
+Neoplastic cells
+Keratin+ neoplastic cells
+CD3+ T
+Macrophages
+CD3+ T
+Macrophages
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+CD3+ T
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+Keratin+ neoplastic cells
+CD8+ T
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+CD8+ T
+CD4+ T
+Keratin+ neoplastic cells
+CD4+ T
+CD3+ T
+CD3+ T
+Neoplastic cells
+Other immune cells
+Other immune cells
+CD3+ T
+Neoplastic cells
+Unknown subpopulation
+CD8+ T
+CD3+ T
+CD4+ T
+CD4+ T
+Neoplastic cells
+CD8+ T
+Neutrophil
+CD4+ T
+Monocytes and neutrophils mixed subpopulation
+Monocytes and neutrophils mixed subpopulation
+Regulatory T
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+CD8+ T
+B cells
+Macrophages
+Neoplastic cells
+CD8+ T
+CD4+ T
+B cells
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+CD4+ T
+Other immune cells
+CD4+ T
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+CD4+ T
+Keratin+ neoplastic cells
+B cells
+Neoplastic cells
+Other immune cells
+Other immune cells
+Neoplastic cells
+Macrophages
+B cells
+CD4+ T
+Neutrophil
+CD8+ T
+Regulatory T
+Other immune cells
+CD8+ T
+CD3+ T
+CD3+ T
+CD4+ T
+CD4+ T
+Macrophages
+Neoplastic cells
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+B cells
+Other immune cells
+Other immune cells
+CD8+ T
+Other immune cells
+B cells
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+Other immune cells
+CD4+ T
+Unknown subpopulation
+CD8+ T
+Regulatory T
+CD4+ T
+Neoplastic cells
+Other immune cells
+CD8+ T
+B cells
+Neoplastic cells
+CD3+ T
+Regulatory T
+B cells
+Neoplastic cells
+CD8+ T
+B cells
+Neoplastic cells
+Macrophages
+CD8+ T
+Other immune cells
+CD8+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Macrophages
+CD8+ T
+Other immune cells
+Other immune cells
+CD8+ T
+Monocytes and neutrophils mixed subpopulation
+CD4+ T
+Other immune cells
+CD4+ T
+Neoplastic cells
+CD8+ T
+CD3+ T
+Macrophages
+CD4+ T
+Macrophages
+Macrophages
+Neutrophil
+Macrophages
+CD8+ T
+Neoplastic cells
+Other immune cells
+CD8+ T
+Monocytes and neutrophils mixed subpopulation
+Neoplastic cells
+CD8+ T
+Keratin+ neoplastic cells
+CD4+ T
+CD4+ T
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+Macrophages
+Neoplastic cells
+B cells
+Other immune cells
+Neoplastic cells
+Neoplastic cells
+Macrophages
+CD8+ T
+CD4+ T
+Other immune cells
+Other immune cells
+CD4+ T
+Macrophages
+Neoplastic cells
+Keratin+ neoplastic cells
+CD3+ T
+CD8+ T
+Neoplastic cells
+CD4+ T
+CD4+ T
+CD4+ T
+CD4+ T
+Keratin+ neoplastic cells
+Macrophages
+Monocytes and neutrophils mixed subpopulation
+CD3+ T
+Neoplastic cells
+CD4+ T
+Macrophages
+CD8+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+Unknown subpopulation
+Monocytes and neutrophils mixed subpopulation
+CD3+ T
+CD3+ T
+Neoplastic cells
+CD4+ T
+Other immune cells
+CD4+ T
+Neoplastic cells
+CD4+ T
+CD4+ T
+Other immune cells
+Other immune cells
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+CD4+ T
+Macrophages
+Regulatory T
+CD4+ T
+Neoplastic cells
+Neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+Neoplastic cells
+Macrophages
+Endothelial cells
+Neoplastic cells
+Macrophages
+CD4+ T
+Neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+Regulatory T
+CD8+ T
+Other immune cells
+Neoplastic cells
+CD8+ T
+CD4+ T
+B cells
+Other immune cells
+Neoplastic cells
+Macrophages
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+CD8+ T
+B cells
+Monocytes and neutrophils mixed subpopulation
+B cells
+CD3+ T
+Neoplastic cells
+Neoplastic cells
+Macrophages
+CD8+ T
+Other immune cells
+Regulatory T
+CD4+ T
+CD4+ T
+CD4+ T
+CD4+ T
+Other immune cells
+Unknown subpopulation
+CD4+ T
+CD8+ T
+Other immune cells
+CD3+ T
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+CD4+ T
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+CD3+ T
+B cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+CD3+ T
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+Neoplastic cells
+CD8+ T
+Regulatory T
+Macrophages
+Macrophages
+Neoplastic cells
+Neoplastic cells
+Neutrophil
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+B cells
+Other immune cells
+Other immune cells
+CD8+ T
+Other immune cells
+Macrophages
+B cells
+Other immune cells
+Neoplastic cells
+Macrophages
+Regulatory T
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Regulatory T
+Other immune cells
+Neoplastic cells
+CD3+ T
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+CD8+ T
+CD8+ T
+CD3+ T
+CD8+ T
+Neoplastic cells
+CD8+ T
+Neoplastic cells
+Macrophages
+Neoplastic cells
+CD4+ T
+CD3+ T
+CD4+ T
+Other immune cells
+Neoplastic cells
+Other immune cells
+CD4+ T
+CD4+ T
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+B cells
+Regulatory T
+Neoplastic cells
+B cells
+CD8+ T
+Neoplastic cells
+CD4+ T
+CD3+ T
+Other immune cells
+Other immune cells
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+B cells
+CD8+ T
+CD8+ T
+Other immune cells
+CD8+ T
+CD4+ T
+CD3+ T
+CD8+ T
+B cells
+CD8+ T
+Monocytes and neutrophils mixed subpopulation
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+CD8+ T
+Regulatory T
+CD8+ T
+CD4+ T
+Monocytes and neutrophils mixed subpopulation
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+CD8+ T
+Macrophages
+CD3+ T
+Neoplastic cells
+Monocytes and neutrophils mixed subpopulation
+CD8+ T
+Macrophages
+CD3+ T
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+Macrophages
+Neoplastic cells
+Dendritic cells and monocytes mixed subpopulation
+CD3+ T
+Other immune cells
+CD8+ T
+CD8+ T
+Macrophages
+CD4+ T
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Unknown subpopulation
+Neoplastic cells
+Regulatory T
+B cells
+Neoplastic cells
+CD4+ T
+CD4+ T
+CD3+ T
+Neutrophil
+Other immune cells
+CD3+ T
+Other immune cells
+Other immune cells
+Neoplastic cells
+CD8+ T
+Neoplastic cells
+CD8+ T
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+CD8+ T
+Other immune cells
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+CD3+ T
+CD3+ T
+CD4+ T
+Regulatory T
+Neoplastic cells
+CD8+ T
+CD8+ T
+Neoplastic cells
+CD4+ T
+Neoplastic cells
+Keratin+ neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+CD8+ T
+Macrophages
+Neoplastic cells
+Other immune cells
+Macrophages
+Other immune cells
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+CD3+ T
+CD4+ T
+Macrophages
+CD8+ T
+Regulatory T
+Neoplastic cells
+CD8+ T
+CD4+ T
+Other immune cells
+Neoplastic cells
+CD4+ T
+CD3+ T
+Neoplastic cells
+CD4+ T
+CD8+ T
+CD8+ T
+CD8+ T
+CD8+ T
+Neoplastic cells
+Neutrophil
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+Macrophages
+Macrophages
+CD8+ T
+Neutrophil
+CD8+ T
+CD3+ T
+B cells
+CD4+ T
+CD8+ T
+Macrophages
+Other immune cells
+CD3+ T
+Neoplastic cells
+CD3+ T
+Other immune cells
+Neoplastic cells
+Macrophages
+Macrophages
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+Other immune cells
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+Keratin+ neoplastic cells
+CD4+ T
+Other immune cells
+CD3+ T
+Other immune cells
+CD3+ T
+Macrophages
+Macrophages
+CD4+ T
+Macrophages
+Macrophages
+Regulatory T
+CD8+ T
+Macrophages
+Regulatory T
+Neoplastic cells
+CD8+ T
+CD8+ T
+Other immune cells
+Neoplastic cells
+CD3+ T
+CD4+ T
+CD3+ T
+Other immune cells
+Neoplastic cells
+Neoplastic cells
+Macrophages
+CD8+ T
+CD3+ T
+Neoplastic cells
+CD3+ T
+Neoplastic cells
+CD4+ T
+CD8+ T
+CD3+ T
+CD8+ T
+CD4+ T
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+CD3+ T
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+CD3+ T
+CD8+ T
+CD3+ T
+Neoplastic cells
+CD3+ T
+Neoplastic cells
+CD8+ T
+Neutrophil
+Neoplastic cells
+Neoplastic cells
+CD3+ T
+CD8+ T
+B cells
+Other immune cells
+Other immune cells
+Macrophages
+Other immune cells
+Regulatory T
+Other immune cells
+CD8+ T
+Other immune cells
+CD8+ T
+CD3+ T
+Neoplastic cells
+CD4+ T
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+Neoplastic cells
+Other immune cells
+CD4+ T
+CD8+ T
+CD4+ T
+CD8+ T
+CD3+ T
+Neutrophil
+Macrophages
+B cells
+Neoplastic cells
+Neoplastic cells
+Regulatory T
+B cells
+Regulatory T
+Neoplastic cells
+Neoplastic cells
+B cells
+CD3+ T
+CD4+ T
+CD4+ T
+Neoplastic cells
+Regulatory T
+B cells
+Other immune cells
+CD3+ T
+Neoplastic cells
+Neoplastic cells
+CD3+ T
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+Other immune cells
+Neoplastic cells
+B cells
+CD4+ T
+Neoplastic cells
+Neoplastic cells
+B cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+CD4+ T
+Other immune cells
+CD8+ T
+CD8+ T
+CD8+ T
+CD8+ T
+CD8+ T
+CD4+ T
+B cells
+CD3+ T
+Neoplastic cells
+Neoplastic cells
+Neutrophil
+Neoplastic cells
+Macrophages
+Neoplastic cells
+CD8+ T
+Regulatory T
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+CD3+ T
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+B cells
+Neoplastic cells
+CD3+ T
+Neoplastic cells
+Neoplastic cells
+Neutrophil
+CD3+ T
+Neoplastic cells
+CD3+ T
+CD8+ T
+CD4+ T
+Other immune cells
+B cells
+Macrophages
+Other immune cells
+Macrophages
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+B cells
+Endothelial cells
+Neoplastic cells
+CD8+ T
+Other immune cells
+Neoplastic cells
+CD8+ T
+Neoplastic cells
+Other immune cells
+CD8+ T
+Macrophages
+Neoplastic cells
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+CD8+ T
+B cells
+Endothelial cells
+Keratin+ neoplastic cells
+Other immune cells
+CD8+ T
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD3+ T
+Neutrophil
+CD3+ T
+B cells
+Other immune cells
+Other immune cells
+Other immune cells
+CD4+ T
+Neoplastic cells
+B cells
+CD3+ T
+Neutrophil
+Endothelial cells
+Neoplastic cells
+CD4+ T
+Other immune cells
+CD4+ T
+CD8+ T
+CD8+ T
+CD8+ T
+Macrophages
+CD4+ T
+Neutrophil
+Neutrophil
+CD4+ T
+Neoplastic cells
+CD8+ T
+Neutrophil
+Other immune cells
+Neoplastic cells
+Other immune cells
+Monocytes and neutrophils mixed subpopulation
+CD8+ T
+Neutrophil
+Other immune cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Macrophages
+Other immune cells
+CD8+ T
+CD4+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+Other immune cells
+Other immune cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neutrophil
+Neoplastic cells
+Neutrophil
+CD4+ T
+Neoplastic cells
+CD8+ T
+CD8+ T
+Neoplastic cells
+CD4+ T
+Neoplastic cells
+Other immune cells
+Neutrophil
+B cells
+CD4+ T
+CD8+ T
+CD3+ T
+B cells
+CD8+ T
+Neoplastic cells
+CD8+ T
+B cells
+Neoplastic cells
+Dendritic cells and monocytes mixed subpopulation
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+CD4+ T
+Neoplastic cells
+B cells
+B cells
+Other immune cells
+CD8+ T
+Neoplastic cells
+CD4+ T
+Neoplastic cells
+Neoplastic cells
+Macrophages
+Other immune cells
+Regulatory T
+Macrophages
+CD8+ T
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+CD8+ T
+Other immune cells
+CD3+ T
+CD4+ T
+Neoplastic cells
+Regulatory T
+CD4+ T
+Neoplastic cells
+CD8+ T
+CD8+ T
+CD4+ T
+Neutrophil
+B cells
+Neoplastic cells
+Neoplastic cells
+Endothelial cells
+Neoplastic cells
+CD8+ T
+Other immune cells
+CD4+ T
+CD8+ T
+Neutrophil
+Neoplastic cells
+Other immune cells
+CD4+ T
+Neoplastic cells
+CD3+ T
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+Macrophages
+Neoplastic cells
+Other immune cells
+B cells
+CD4+ T
+CD3+ T
+Neoplastic cells
+CD3+ T
+CD3+ T
+CD3+ T
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+CD8+ T
+Other immune cells
+CD3+ T
+B cells
+Neoplastic cells
+Monocytes and neutrophils mixed subpopulation
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+CD8+ T
+B cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+B cells
+Regulatory T
+Other immune cells
+CD8+ T
+CD8+ T
+Neoplastic cells
+Other immune cells
+CD8+ T
+Neoplastic cells
+CD8+ T
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+CD8+ T
+CD4+ T
+Other immune cells
+Neutrophil
+CD3+ T
+Other immune cells
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+B cells
+Neoplastic cells
+CD8+ T
+CD8+ T
+Neoplastic cells
+CD3+ T
+Other immune cells
+Other immune cells
+CD8+ T
+Neutrophil
+Neutrophil
+CD4+ T
+Neoplastic cells
+Regulatory T
+Neoplastic cells
+Regulatory T
+Neoplastic cells
+CD8+ T
+Neoplastic cells
+CD4+ T
+CD8+ T
+B cells
+Neoplastic cells
+Macrophages
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+CD3+ T
+CD4+ T
+CD8+ T
+CD3+ T
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+Macrophages
+CD8+ T
+CD4+ T
+B cells
+Regulatory T
+Other immune cells
+Neoplastic cells
+B cells
+Neoplastic cells
+Other immune cells
+CD8+ T
+CD8+ T
+Neoplastic cells
+Other immune cells
+Other immune cells
+CD8+ T
+Macrophages
+CD4+ T
+CD8+ T
+Endothelial cells
+Neoplastic cells
+CD4+ T
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+B cells
+Regulatory T
+CD3+ T
+Regulatory T
+Neoplastic cells
+CD8+ T
+CD8+ T
+Monocytes and neutrophils mixed subpopulation
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+CD8+ T
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+CD4+ T
+Macrophages
+Other immune cells
+CD8+ T
+CD3+ T
+CD3+ T
+CD4+ T
+Other immune cells
+Other immune cells
+CD4+ T
+Other immune cells
+Neoplastic cells
+Macrophages
+CD4+ T
+CD3+ T
+Neoplastic cells
+Other immune cells
+Other immune cells
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+Neoplastic cells
+CD8+ T
+Monocytes and neutrophils mixed subpopulation
+Other immune cells
+CD4+ T
+CD8+ T
+CD3+ T
+CD4+ T
+CD4+ T
+Neoplastic cells
+Keratin+ neoplastic cells
+Neoplastic cells
+CD8+ T
+CD8+ T
+CD8+ T
+CD4+ T
+Neoplastic cells
+B cells
+Macrophages
+Neoplastic cells
+Regulatory T
+Macrophages
+Neoplastic cells
+CD3+ T
+CD4+ T
+Macrophages
+CD3+ T
+CD4+ T
+B cells
+CD4+ T
+Neoplastic cells
+CD8+ T
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+CD8+ T
+Macrophages
+Macrophages
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+B cells
+Macrophages
+CD4+ T
+Macrophages
+CD3+ T
+Neoplastic cells
+CD3+ T
+Neoplastic cells
+CD8+ T
+CD8+ T
+CD8+ T
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+CD4+ T
+Neoplastic cells
+CD8+ T
+CD4+ T
+Neutrophil
+CD4+ T
+Neoplastic cells
+CD8+ T
+CD3+ T
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+Macrophages
+CD3+ T
+CD3+ T
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+CD8+ T
+CD8+ T
+Endothelial cells
+CD8+ T
+CD8+ T
+Macrophages
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+Other immune cells
+CD8+ T
+Neoplastic cells
+CD8+ T
+Other immune cells
+CD8+ T
+CD8+ T
+CD4+ T
+CD8+ T
+CD8+ T
+CD3+ T
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+B cells
+CD8+ T
+Neoplastic cells
+Keratin+ neoplastic cells
+CD8+ T
+Other immune cells
+Endothelial cells
+CD4+ T
+Macrophages
+Macrophages
+CD8+ T
+CD4+ T
+B cells
+Endothelial cells
+Other immune cells
+Macrophages
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+CD4+ T
+CD3+ T
+Other immune cells
+B cells
+CD8+ T
+CD8+ T
+Macrophages
+Neoplastic cells
+B cells
+CD8+ T
+Macrophages
+CD8+ T
+CD8+ T
+CD3+ T
+Neoplastic cells
+CD8+ T
+CD3+ T
+CD3+ T
+CD8+ T
+CD4+ T
+CD4+ T
+Macrophages
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD3+ T
+CD8+ T
+CD8+ T
+Other immune cells
+Neoplastic cells
+Keratin+ neoplastic cells
+Macrophages
+Regulatory T
+Neoplastic cells
+Other immune cells
+CD4+ T
+Keratin+ neoplastic cells
+Neoplastic cells
+Other immune cells
+CD8+ T
+Macrophages
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+CD8+ T
+CD8+ T
+Macrophages
+Endothelial cells
+Monocytes and neutrophils mixed subpopulation
+Macrophages
+CD3+ T
+Neoplastic cells
+CD8+ T
+B cells
+Neoplastic cells
+CD4+ T
+CD8+ T
+Macrophages
+CD3+ T
+Neoplastic cells
+Macrophages
+CD3+ T
+Other immune cells
+Neoplastic cells
+CD8+ T
+Neoplastic cells
+Macrophages
+Macrophages
+CD3+ T
+CD4+ T
+Macrophages
+Neutrophil
+CD8+ T
+B cells
+CD4+ T
+Macrophages
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+Macrophages
+Macrophages
+Neoplastic cells
+CD3+ T
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+Macrophages
+Neoplastic cells
+Other immune cells
+CD8+ T
+CD4+ T
+CD3+ T
+Keratin+ neoplastic cells
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Macrophages
+CD4+ T
+CD3+ T
+Neoplastic cells
+Macrophages
+CD8+ T
+Monocytes and neutrophils mixed subpopulation
+CD3+ T
+B cells
+CD8+ T
+CD8+ T
+B cells
+Keratin+ neoplastic cells
+B cells
+CD8+ T
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+Other immune cells
+Neoplastic cells
+Monocytes and neutrophils mixed subpopulation
+CD8+ T
+Macrophages
+CD8+ T
+CD8+ T
+Other immune cells
+B cells
+CD4+ T
+Neoplastic cells
+Neoplastic cells
+Macrophages
+CD8+ T
+Other immune cells
+CD3+ T
+CD8+ T
+Neoplastic cells
+Other immune cells
+CD8+ T
+Neoplastic cells
+CD3+ T
+CD4+ T
+Neoplastic cells
+Neoplastic cells
+CD3+ T
+Other immune cells
+Macrophages
+CD8+ T
+CD3+ T
+CD4+ T
+CD3+ T
+Neoplastic cells
+Neoplastic cells
+CD3+ T
+Other immune cells
+CD4+ T
+Other immune cells
+Neoplastic cells
+CD8+ T
+CD4+ T
+Macrophages
+Neoplastic cells
+Other immune cells
+CD3+ T
+B cells
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+Other immune cells
+Unknown subpopulation
+Neoplastic cells
+Neutrophil
+CD4+ T
+Macrophages
+CD4+ T
+Monocytes and neutrophils mixed subpopulation
+CD8+ T
+CD4+ T
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+Regulatory T
+Neoplastic cells
+CD3+ T
+CD8+ T
+CD4+ T
+Other immune cells
+CD8+ T
+Neoplastic cells
+CD8+ T
+CD3+ T
+CD3+ T
+Other immune cells
+Macrophages
+CD8+ T
+B cells
+Monocytes and neutrophils mixed subpopulation
+CD4+ T
+Other immune cells
+Neoplastic cells
+CD3+ T
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+CD8+ T
+CD3+ T
+Unknown subpopulation
+CD8+ T
+Monocytes and neutrophils mixed subpopulation
+Other immune cells
+Neoplastic cells
+Other immune cells
+Monocytes and neutrophils mixed subpopulation
+Regulatory T
+CD8+ T
+CD3+ T
+CD8+ T
+Macrophages
+Macrophages
+Macrophages
+Macrophages
+CD3+ T
+Neoplastic cells
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+CD4+ T
+CD4+ T
+Regulatory T
+Neoplastic cells
+CD8+ T
+B cells
+Neoplastic cells
+CD8+ T
+B cells
+Neoplastic cells
+Neoplastic cells
+Macrophages
+Neoplastic cells
+Regulatory T
+CD8+ T
+Neoplastic cells
+CD3+ T
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+CD4+ T
+CD4+ T
+Macrophages
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+CD3+ T
+CD8+ T
+Neoplastic cells
+Other immune cells
+CD3+ T
+Neoplastic cells
+CD3+ T
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+CD4+ T
+CD8+ T
+CD8+ T
+CD8+ T
+CD8+ T
+CD4+ T
+Macrophages
+Neoplastic cells
+CD4+ T
+Neoplastic cells
+CD8+ T
+CD8+ T
+CD8+ T
+B cells
+Other immune cells
+CD8+ T
+CD8+ T
+CD8+ T
+CD4+ T
+Neoplastic cells
+CD3+ T
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+CD3+ T
+Neoplastic cells
+CD8+ T
+Other immune cells
+Macrophages
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Macrophages
+B cells
+CD4+ T
+CD8+ T
+CD4+ T
+CD3+ T
+Neoplastic cells
+Macrophages
+CD8+ T
+B cells
+Neoplastic cells
+CD8+ T
+CD8+ T
+CD4+ T
+CD8+ T
+Macrophages
+Macrophages
+Neoplastic cells
+B cells
+Macrophages
+CD8+ T
+Neoplastic cells
+CD8+ T
+Macrophages
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+CD8+ T
+CD3+ T
+CD8+ T
+Macrophages
+CD3+ T
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+CD8+ T
+Other immune cells
+CD3+ T
+Neoplastic cells
+Endothelial cells
+Other immune cells
+CD8+ T
+Endothelial cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Macrophages
+Neoplastic cells
+CD8+ T
+CD8+ T
+Neoplastic cells
+Other immune cells
+CD8+ T
+Macrophages
+Neoplastic cells
+Neoplastic cells
+B cells
+Neoplastic cells
+Macrophages
+Monocytes and neutrophils mixed subpopulation
+CD8+ T
+CD3+ T
+CD8+ T
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+CD8+ T
+Macrophages
+Monocytes and neutrophils mixed subpopulation
+CD4+ T
+CD3+ T
+CD8+ T
+CD8+ T
+Neoplastic cells
+Other immune cells
+Macrophages
+Neoplastic cells
+CD8+ T
+Neoplastic cells
+CD3+ T
+B cells
+CD4+ T
+Endothelial cells
+CD3+ T
+Neoplastic cells
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+CD3+ T
+Neoplastic cells
+CD3+ T
+CD3+ T
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD3+ T
+CD4+ T
+CD4+ T
+Neoplastic cells
+Other immune cells
+Macrophages
+CD8+ T
+Other immune cells
+CD3+ T
+Other immune cells
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+CD8+ T
+CD4+ T
+Neoplastic cells
+Endothelial cells
+Macrophages
+CD3+ T
+CD3+ T
+Neoplastic cells
+Other immune cells
+CD3+ T
+CD4+ T
+B cells
+CD4+ T
+Macrophages
+CD4+ T
+CD3+ T
+CD3+ T
+Other immune cells
+Neoplastic cells
+B cells
+CD8+ T
+Other immune cells
+Neoplastic cells
+CD3+ T
+Macrophages
+CD8+ T
+CD8+ T
+Monocytes and neutrophils mixed subpopulation
+Macrophages
+Macrophages
+Neoplastic cells
+CD3+ T
+Neoplastic cells
+Other immune cells
+Other immune cells
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+CD8+ T
+B cells
+CD3+ T
+CD4+ T
+CD8+ T
+Neoplastic cells
+Neutrophil
+CD8+ T
+Macrophages
+CD3+ T
+Macrophages
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+CD4+ T
+CD8+ T
+Neoplastic cells
+Other immune cells
+CD4+ T
+Neoplastic cells
+B cells
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+CD3+ T
+CD8+ T
+Macrophages
+Macrophages
+Other immune cells
+CD3+ T
+Neoplastic cells
+CD4+ T
+Regulatory T
+Regulatory T
+Other immune cells
+Neutrophil
+CD3+ T
+CD8+ T
+Other immune cells
+CD8+ T
+CD3+ T
+Neoplastic cells
+Regulatory T
+CD4+ T
+CD3+ T
+CD4+ T
+B cells
+Neoplastic cells
+Other immune cells
+CD8+ T
+B cells
+CD8+ T
+CD4+ T
+Other immune cells
+Neoplastic cells
+CD8+ T
+Neoplastic cells
+Other immune cells
+Other immune cells
+Other immune cells
+CD8+ T
+Neoplastic cells
+Other immune cells
+Macrophages
+CD3+ T
+Other immune cells
+Neoplastic cells
+CD8+ T
+CD4+ T
+CD8+ T
+CD3+ T
+CD8+ T
+Macrophages
+Neoplastic cells
+CD3+ T
+CD3+ T
+CD8+ T
+CD8+ T
+Neoplastic cells
+Other immune cells
+Macrophages
+Other immune cells
+CD8+ T
+CD4+ T
+Other immune cells
+Neoplastic cells
+Monocytes and neutrophils mixed subpopulation
+Other immune cells
+Neoplastic cells
+CD8+ T
+CD8+ T
+Neoplastic cells
+B cells
+CD4+ T
+B cells
+CD8+ T
+Macrophages
+CD8+ T
+Neoplastic cells
+Other immune cells
+CD4+ T
+CD4+ T
+Other immune cells
+Other immune cells
+CD8+ T
+CD4+ T
+CD4+ T
+Macrophages
+Neoplastic cells
+B cells
+Neoplastic cells
+CD3+ T
+CD8+ T
+B cells
+CD3+ T
+CD4+ T
+Neoplastic cells
+CD3+ T
+CD3+ T
+CD8+ T
+CD8+ T
+CD3+ T
+CD8+ T
+CD3+ T
+CD8+ T
+CD3+ T
+Regulatory T
+Neoplastic cells
+CD4+ T
+CD4+ T
+CD8+ T
+Neoplastic cells
+CD8+ T
+Macrophages
+CD4+ T
+Neoplastic cells
+CD4+ T
+Macrophages
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+B cells
+CD8+ T
+Neoplastic cells
+CD3+ T
+Neoplastic cells
+Monocytes and neutrophils mixed subpopulation
+CD4+ T
+CD3+ T
+Macrophages
+CD4+ T
+Neoplastic cells
+Other immune cells
+Macrophages
+CD8+ T
+Other immune cells
+CD3+ T
+B cells
+Other immune cells
+Other immune cells
+Other immune cells
+Neoplastic cells
+CD4+ T
+CD8+ T
+CD3+ T
+CD3+ T
+CD8+ T
+Neoplastic cells
+CD4+ T
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+CD3+ T
+Neoplastic cells
+Neoplastic cells
+Macrophages
+CD4+ T
+CD8+ T
+Monocytes and neutrophils mixed subpopulation
+Monocytes and neutrophils mixed subpopulation
+Neoplastic cells
+CD3+ T
+CD8+ T
+Monocytes and neutrophils mixed subpopulation
+Neoplastic cells
+CD8+ T
+Macrophages
+CD4+ T
+Neoplastic cells
+CD4+ T
+CD4+ T
+B cells
+CD4+ T
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+Other immune cells
+CD3+ T
+Other immune cells
+Macrophages
+Monocytes and neutrophils mixed subpopulation
+Neoplastic cells
+B cells
+Unknown subpopulation
+Regulatory T
+Neoplastic cells
+CD8+ T
+Macrophages
+Neoplastic cells
+CD3+ T
+CD8+ T
+CD8+ T
+CD4+ T
+CD3+ T
+CD3+ T
+Other immune cells
+Other immune cells
+Other immune cells
+Other immune cells
+Neoplastic cells
+Neoplastic cells
+B cells
+Neoplastic cells
+Macrophages
+Macrophages
+B cells
+Neoplastic cells
+CD8+ T
+CD3+ T
+CD3+ T
+CD8+ T
+Macrophages
+Monocytes and neutrophils mixed subpopulation
+CD3+ T
+CD8+ T
+CD8+ T
+Monocytes and neutrophils mixed subpopulation
+CD3+ T
+Neoplastic cells
+CD8+ T
+Other immune cells
+Neutrophil
+CD3+ T
+CD8+ T
+CD3+ T
+Monocytes and neutrophils mixed subpopulation
+Other immune cells
+CD3+ T
+Neoplastic cells
+CD3+ T
+Neoplastic cells
+B cells
+Neoplastic cells
+CD4+ T
+Neoplastic cells
+Neoplastic cells
+Regulatory T
+CD8+ T
+Neoplastic cells
+Macrophages
+Macrophages
+Neoplastic cells
+CD8+ T
+CD8+ T
+Neoplastic cells
+Neoplastic cells
+Monocytes and neutrophils mixed subpopulation
+CD8+ T
+Neoplastic cells
+CD4+ T
+Neoplastic cells
+B cells
+Neoplastic cells
+Monocytes and neutrophils mixed subpopulation
+CD3+ T
+Macrophages
+Macrophages
+Macrophages
+CD8+ T
+CD3+ T
+Macrophages
+CD8+ T
+Other immune cells
+CD3+ T
+CD3+ T
+Other immune cells
+CD8+ T
+Neoplastic cells
+CD3+ T
+CD4+ T
+Neoplastic cells
+CD8+ T
+CD3+ T
+CD3+ T
+CD3+ T
+Macrophages
+CD8+ T
+CD4+ T
+Other immune cells
+Neoplastic cells
+Neoplastic cells
+CD4+ T
+CD8+ T
+B cells
+Monocytes and neutrophils mixed subpopulation
+Neoplastic cells
+Macrophages
+CD8+ T
+CD8+ T
+CD8+ T
+CD8+ T
+CD3+ T
+CD3+ T
+Neoplastic cells
+CD3+ T
+CD4+ T
+Regulatory T
+Other immune cells
+Neoplastic cells
+Macrophages
+CD3+ T
+CD4+ T
+Neoplastic cells
+Neoplastic cells
+Other immune cells
+CD3+ T
+CD8+ T
+Monocytes and neutrophils mixed subpopulation
+CD3+ T
+Monocytes and neutrophils mixed subpopulation
+CD8+ T
+CD8+ T
+CD8+ T
+CD8+ T
+CD4+ T
+Other immune cells
+Neoplastic cells
+Neoplastic cells
+CD3+ T
+Neoplastic cells
+Macrophages
+Other immune cells
+Macrophages
+Neoplastic cells
+Neoplastic cells
+Endothelial cells
+Neoplastic cells
+Other immune cells
+Neoplastic cells
+CD4+ T
+CD4+ T
+Neoplastic cells
+Neoplastic cells
+Neoplastic cells
+CD8+ T
+Macrophages
+CD8+ T
+Regulatory T
+CD3+ T
+Macrophages
+B cells
+B cells
+CD3+ T
+CD3+ T
+CD3+ T
+Macrophages
+Monocytes and neutrophils mixed subpopulation
+Macrophages
+CD3+ T
+Neutrophil
+CD8+ T
+CD4+ T
+Macrophages
+Neoplastic cells
+B cells
+CD3+ T
+CD4+ T
+Neoplastic cells
+CD8+ T
+Monocytes and neutrophils mixed subpopulation
+Neoplastic cells
+CD3+ T
+Macrophages
+CD3+ T
+Other immune cells
+Neoplastic cells
