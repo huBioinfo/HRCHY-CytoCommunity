@@ -5,7 +5,7 @@ import datetime
 
 
 # Hyperparameters
-InputFolderName = "./MIBI_TNBC_KNNgraph_Input/"
+InputFolderName = "./TNBC_MIBI-TOF_Input/"
 KNN_K = 72
 
 
