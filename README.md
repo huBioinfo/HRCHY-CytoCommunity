@@ -79,3 +79,11 @@ cd HRCHY-CytoCommunity
     ```
 
 
+## Usage
+
+You can reproduce hierarchical tissue structure assignments shown in the HRCHY-CytoCommunity paper using the commands below. The associated code scripts and example input data can be found under the directory "Tutorial/".
+
+
+
+
+
