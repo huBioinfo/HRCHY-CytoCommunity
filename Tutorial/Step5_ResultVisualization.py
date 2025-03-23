@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 
 # Hyperparameter
-InputFolderName = "./MIBI_TNBC_KNNgraph_Input/"
+InputFolderName = "./TNBC_MIBI-TOF_Input/"
 
 # Import graph index.
 GraphIndex_filename = "./Run1/GraphIdx.csv"
