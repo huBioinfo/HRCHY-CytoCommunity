@@ -20,7 +20,7 @@ Num_Run = 20
 Num_Epoch = 10000
 Num_Fine = 15
 Num_Coarse = 2
-alpha = 0.9
+Alpha = 0.9
 cut_off = 0.2
 
 Num_Dimension = 128
@@ -94,7 +94,7 @@ def train(epoch):
         data = data.to(device)
         optimizer.zero_grad()
         out, mc_loss1, o_loss1, mc_loss2, o_loss2, _, _, _, _ = model(data.x, data.adj, data.mask)
-        loss = alpha * (mc_loss1 + o_loss1) + (1 - alpha) * (mc_loss2 + o_loss2)
+        loss = Alpha * (mc_loss1 + o_loss1) + (1 - Alpha) * (mc_loss2 + o_loss2)
         loss.backward()
         loss_all += loss.item()
         loss_1 += mc_loss1.item()
