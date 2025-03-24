@@ -109,7 +109,7 @@ cd Tutorial
 python Step1_Construct_KNNgraph.py
 ```
 &ensp;&ensp;**Hyperparameters**
-- InputFolderName: The folder name of input dataset.
+- InputFolderName: The folder name of the input dataset.
 - KNN_K: The K value used in the construction of the undirected KNN graph for each image. This value can be empirically set to the integer closest to the square root of the average number of cells in the images in the dataset.
 
 #### 2. Use Step2 to convert the input data to the standard format required by Torch.
@@ -118,8 +118,8 @@ python Step1_Construct_KNNgraph.py
 python Step2_DataImport.py
 ```
 &ensp;&ensp;**Hyperparameters**
-- Max_Nodes: This number must be higher than the largest number of cells in each image in the studied dataset.
-- InputFolderName: The folder name of input dataset, consistent with Step1.
+- Max_Nodes: This number must be higher than the largest number of cells in each image in the dataset.
+- InputFolderName: The folder name of the input dataset, consistent with Step1.
 
 
 
