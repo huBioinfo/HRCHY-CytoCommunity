@@ -2,7 +2,7 @@ library(diceR)
 
 Num_Run = 20
 Num_Cell = 6334
-fine_number = 15
+Num_Fine = 15
 coarse_number = 2
 
 #Import data.
@@ -17,7 +17,7 @@ allHardClustLabel2 <- vector()
 allcoarse <- vector()
 
 HardMatrix <- matrix(data = NA, nrow=Num_Cell)
-CoarseMatrix <- matrix(data = NA, nrow=fine_number)
+CoarseMatrix <- matrix(data = NA, nrow=Num_Fine)
 
 for (i in 1:length(allSoftClustFile1)) {
   
@@ -42,7 +42,7 @@ HardMatrix <- HardMatrix[, -1]
 HardMatrix <- cbind(HardMatrix, finalClass1)
 
 for (i in 1:Num_Run) {
-  for(j in 1:fine_number){
+  for(j in 1:Num_Fine){
     subset_matrix <- subset(HardMatrix, HardMatrix[, Num_Run*2+1] == j)
     CoarseMatrix[j,1] <- names(sort(table(subset_matrix[, 2*i]), decreasing = TRUE)[1])
   }
@@ -54,13 +54,13 @@ final_finetocoarse <- diceR::majority_voting(allcoarse, is.relabelled = FALSE)
 finalmatrix <- as.matrix(finalClass1)
 trans <- as.matrix(final_finetocoarse)
 for (i in 1:coarse_number){
-  finalmatrix[finalmatrix == i] = fine_number+i
+  finalmatrix[finalmatrix == i] = Num_Fine+i
 }
-for (i in (coarse_number+1):fine_number){
+for (i in (coarse_number+1):Num_Fine){
   finalmatrix[finalmatrix == i] = trans[i,1]
 }
 for (i in 1:coarse_number){
-  finalmatrix[finalmatrix == fine_number+i] = trans[i,1]
+  finalmatrix[finalmatrix == Num_Fine+i] = trans[i,1]
 }
 finalClass2 = finalmatrix
 
