@@ -121,5 +121,20 @@ python Step2_DataImport.py
 - Max_Nodes: This number must be higher than the largest number of cells in each image in the dataset.
 - InputFolderName: The folder name of the input dataset, consistent with Step1.
 
+#### 3. Use Step3 to perform soft hierarchical tissue structure assignment learning.
+
+```bash
+python Step3_HierarchicalTissueStructureLearning.py
+```
+&ensp;&ensp;**Hyperparameters**
+- Max_Nodes: This number must be higher than the largest number of cells in each image in the dataset, consistent with Step2.
+- Num_Run: How many times to run the soft hierarchical tissue structure assignment learning module in order to obtain robust results. [Default=20]
+- Num_Epoch: The number of training epochs. [Default=10000]
+- Num_Fine: The maximum number of fine-grained tissue structures expected to identify.
+- Num_Coarse: The maximum number of coarse-grained tissue structures expected to identify.
+- Alpha: The weight parameter used to balance fine-grained and coarse-grained loss. [Default=0.9]
+- Edge_Pruning: The hyperparameter used to prune the edges of the coarsened graph. [Default=0.2]
+- Embedding_Dimension: The dimension of the embedding features. [Default=128]
+- Learning_Rate: This parameter determines the step size at each iteration while moving toward a minimum of a loss function. [Default=1E-5]
 
 
