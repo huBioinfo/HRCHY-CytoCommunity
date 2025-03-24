@@ -137,4 +137,16 @@ python Step3_HierarchicalTissueStructureLearning.py
 - Embedding_Dimension: The dimension of the embedding features. [Default=128]
 - Learning_Rate: This parameter determines the step size at each iteration while moving toward a minimum of a loss function. [Default=1E-5]
 
+#### 4. Use Step4 to perform hierarchical tissue structure ensemble.
+
+```bash
+Rscript Step4_HierarchicalTissueStructureEnsemble.R
+```
+&ensp;&ensp;**Hyperparameters**
+- Num_Run: How many times to run the soft hierarchical tissue structure assignment learning module in order to obtain robust results, consistent with Step3. [Default=20]
+- Num_Cell:  The number of cells in the image.
+- Num_Fine: The maximum number of fine-grained tissue structures expected to identify, consistent with Step3.
+- Num_Coarse: The maximum number of coarse-grained tissue structures expected to identify, consistent with Step3.
+
+
 
