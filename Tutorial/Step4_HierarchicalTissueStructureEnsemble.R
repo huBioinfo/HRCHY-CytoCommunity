@@ -1,6 +1,6 @@
 library(diceR)
 
-run_number = 20
+Num_Run = 20
 cell_number = 6334
 fine_number = 15
 coarse_number = 2
@@ -41,9 +41,9 @@ finalClass1 <- diceR::majority_voting(allHardClustLabel1, is.relabelled = FALSE)
 HardMatrix <- HardMatrix[, -1]
 HardMatrix <- cbind(HardMatrix, finalClass1)
 
-for (i in 1:run_number) {
+for (i in 1:Num_Run) {
   for(j in 1:fine_number){
-    subset_matrix <- subset(HardMatrix, HardMatrix[, run_number*2+1] == j)
+    subset_matrix <- subset(HardMatrix, HardMatrix[, Num_Run*2+1] == j)
     CoarseMatrix[j,1] <- names(sort(table(subset_matrix[, 2*i]), decreasing = TRUE)[1])
   }
   allcoarse <- cbind(allcoarse, as.vector(CoarseMatrix))
