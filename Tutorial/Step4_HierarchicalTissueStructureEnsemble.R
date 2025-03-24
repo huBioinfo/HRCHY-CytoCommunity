@@ -3,7 +3,7 @@ library(diceR)
 Num_Run = 20
 Num_Cell = 6334
 Num_Fine = 15
-coarse_number = 2
+Num_Coarse = 2
 
 #Import data.
 NodeMask <- read.csv("Run1/NodeMask.csv", header = FALSE)
@@ -53,13 +53,13 @@ final_finetocoarse <- diceR::majority_voting(allcoarse, is.relabelled = FALSE)
 
 finalmatrix <- as.matrix(finalClass1)
 trans <- as.matrix(final_finetocoarse)
-for (i in 1:coarse_number){
+for (i in 1:Num_Coarse){
   finalmatrix[finalmatrix == i] = Num_Fine+i
 }
-for (i in (coarse_number+1):Num_Fine){
+for (i in (Num_Coarse+1):Num_Fine){
   finalmatrix[finalmatrix == i] = trans[i,1]
 }
-for (i in 1:coarse_number){
+for (i in 1:Num_Coarse){
   finalmatrix[finalmatrix == Num_Fine+i] = trans[i,1]
 }
 finalClass2 = finalmatrix
