@@ -21,7 +21,7 @@ Num_Epoch = 10000
 Num_Fine = 15
 Num_Coarse = 2
 Alpha = 0.9
-cut_off = 0.2
+Edge_Pruning = 0.2
 
 Num_Dimension = 128
 LearningRate = 0.00001
@@ -69,7 +69,7 @@ class Net(torch.nn.Module):
         x, adj, mc1, o1 = dense_mincut_pool(x, adj, s, mask)
 
         ClusterAssignTensor_1 = s
-        adj = torch.where(adj > cut_off, 1.0, 0.0)
+        adj = torch.where(adj > Edge_Pruning, 1.0, 0.0)
         ClusterAdjTensor_1 = adj
 
         y = F.relu(self.conv3(x, adj))
