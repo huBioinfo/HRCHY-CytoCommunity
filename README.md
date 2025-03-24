@@ -83,7 +83,19 @@ cd HRCHY-CytoCommunity
 
 You can reproduce hierarchical tissue structure assignments shown in the HRCHY-CytoCommunity paper using the commands below. The associated code scripts and example input data can be found under the directory "Tutorial/".
 
+### Prepare input data
 
+The input data includes five types of files:
 
+(1) Cell type label files for each image named "[image name]_CellTypeLabel.txt".
 
+(2) Cell spatial coordinate files for each image named "[image name]_Coordinates.txt".
+
+(3) Index files for each image named "[image name]_GraphIndex.txt".
+
+(4) Node attribute files for each image named "[image name]_NodeAttr.txt".
+
+(5) An image name list file named "ImageNameList.txt".
+
+These example input files can be found under the directory "Tutorial/TNBC_MIBI_Input/".
 
