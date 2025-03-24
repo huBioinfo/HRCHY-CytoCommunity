@@ -6,7 +6,7 @@ from torch_geometric.data import Data, InMemoryDataset
 
 
 # Hyperparameters
-max_nodes = 8300   #This number must be higher than the largest number of cells in each image in the studied dataset.
+Max_Nodes = 8300   #This number must be higher than the largest number of cells in each image in the studied dataset.
 InputFolderName = "./TNBC_MIBI-TOF_Input/"
 
 
@@ -65,6 +65,6 @@ class SpatialOmicsImageDataset(InMemoryDataset):
         torch.save((data, slices), self.processed_paths[0])
 
 ## Create an object of this "Dataset" class.
-dataset = SpatialOmicsImageDataset('./', transform=T.ToDense(max_nodes))
+dataset = SpatialOmicsImageDataset('./', transform=T.ToDense(Max_Nodes))
 
 
