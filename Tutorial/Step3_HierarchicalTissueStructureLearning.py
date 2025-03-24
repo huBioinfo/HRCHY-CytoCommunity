@@ -5,7 +5,6 @@ from torch_geometric.loader import DenseDataLoader
 from torch_geometric.nn import DenseGraphConv, dense_mincut_pool
 from torch_geometric.data import InMemoryDataset
 import torch_geometric.transforms as T
-
 import os
 import numpy
 import datetime
@@ -22,7 +21,7 @@ Num_Coarse = 2
 Alpha = 0.9
 Edge_Pruning = 0.2
 Embedding_Dimension = 128
-LearningRate = 0.00001
+Learning_Rate = 0.00001
 
 ## Load dataset from constructed Dataset.
 class SpatialOmicsImageDataset(InMemoryDataset):
@@ -120,7 +119,7 @@ while run_number <= Num_Run:  #Generate multiple independent runs for ensemble.
 
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     model = Net(dataset.num_features, dataset.num_classes).to(device)  #Initializing the model.
-    optimizer = torch.optim.Adam(model.parameters(), lr=LearningRate)
+    optimizer = torch.optim.Adam(model.parameters(), lr=Learning_Rate)
     
     RunFolderName = "Run" + str(run_number)
     os.makedirs(RunFolderName)  #Creating the Run folder.
