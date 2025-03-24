@@ -15,15 +15,13 @@ import shutil
 
 # Hyperparameters
 Max_Nodes = 8300  #This number must be higher than the largest number of cells in each image in the studied dataset.
-
 Num_Run = 20
 Num_Epoch = 10000
 Num_Fine = 15
 Num_Coarse = 2
 Alpha = 0.9
 Edge_Pruning = 0.2
-
-Num_Dimension = 128
+Embedding_Dimension = 128
 LearningRate = 0.00001
 
 ## Load dataset from constructed Dataset.
@@ -52,7 +50,7 @@ dataset = SpatialOmicsImageDataset('./', transform=T.ToDense(Max_Nodes))
 
 
 class Net(torch.nn.Module):
-    def __init__(self, in_channels, out_channels, hidden_channels=Num_Dimension):
+    def __init__(self, in_channels, out_channels, hidden_channels=Embedding_Dimension):
         super(Net, self).__init__()
 
         self.conv1 = DenseGraphConv(in_channels, hidden_channels)
