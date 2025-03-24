@@ -81,7 +81,7 @@ cd HRCHY-CytoCommunity
 
 ## Usage
 
-You can reproduce hierarchical tissue structure assignments shown in the HRCHY-CytoCommunity paper using the commands below. The associated code scripts and example input data can be found under the directory "Tutorial/".
+You can reproduce hierarchical tissue structure assignments of the human triple-negative breast cancer MIBI-TOF dataset shown in the HRCHY-CytoCommunity paper using the commands below. The associated code scripts and example input data can be found under the directory "Tutorial/".
 
 ### Prepare input data
 
@@ -97,21 +97,29 @@ The input data includes five types of files:
 
 (5) An image name list file named "ImageNameList.txt".
 
-These example input files can be found under the directory "Tutorial/TNBC_MIBI_Input/".
+These example input files can be found under the directory "Tutorial/TNBC_MIBI-TOF_Input/".
 
 ### Run the following steps in Windows Powershell or Linux Bash shell:
 
 #### 1. Use Step1 to construct an undirected KNN graph.
 
 ```bash
-conda activate CytoCommunity
-cd Tutorial/Unsupervised
-python Step1_ConstructCellularSpatialGraphs.py
+conda activate HRCHY-CytoCommunity
+cd Tutorial
+python Step1_Construct_KNNgraph.py
 ```
 &ensp;&ensp;**Hyperparameters**
-- InputFolderName: The folder name of your input dataset.
-- KNN_K: The K value used in the construction of the K nearest neighbor graph (cellular spatial graph) for each sample/image. This value can be empirically set to the integer closest to the square root of the average number of cells in the images in your dataset.
+- InputFolderName: The folder name of input dataset.
+- KNN_K: The K value used in the construction of the undirected KNN graph for each image. This value can be empirically set to the integer closest to the square root of the average number of cells in the images in the dataset.
 
+#### 2. Use Step2 to convert the input data to the standard format required by Torch.
+
+```bash
+python Step2_DataImport.py
+```
+&ensp;&ensp;**Hyperparameters**
+- Max_Nodes: This number must be higher than the largest number of cells in each image in the studied dataset.
+- InputFolderName: The folder name of input dataset, consistent with Step1.
 
 
 
