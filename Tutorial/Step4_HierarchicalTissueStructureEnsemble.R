@@ -1,7 +1,7 @@
 library(diceR)
 
 Num_Run = 20
-cell_number = 6334
+Num_Cell = 6334
 fine_number = 15
 coarse_number = 2
 
@@ -16,7 +16,7 @@ allHardClustLabel1 <- vector()
 allHardClustLabel2 <- vector()
 allcoarse <- vector()
 
-HardMatrix <- matrix(data = NA, nrow=cell_number)
+HardMatrix <- matrix(data = NA, nrow=Num_Cell)
 CoarseMatrix <- matrix(data = NA, nrow=fine_number)
 
 for (i in 1:length(allSoftClustFile1)) {
