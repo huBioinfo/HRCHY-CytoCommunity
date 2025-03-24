@@ -148,5 +148,11 @@ Rscript Step4_HierarchicalTissueStructureEnsemble.R
 - Num_Fine: The maximum number of fine-grained tissue structures expected to identify, consistent with Step3.
 - Num_Coarse: The maximum number of coarse-grained tissue structures expected to identify, consistent with Step3.
 
+#### 5. Use Step5 to visualize single-cell spatial maps colored according to cell types and final hierarchical tissue structures.
 
+```bash
+python Step5_ResultVisualization.py
+```
+&ensp;&ensp;**Hyperparameters**
+- InputFolderName: The folder name of the input dataset, consistent with Step1.
 
