@@ -99,3 +99,19 @@ The input data includes five types of files:
 
 These example input files can be found under the directory "Tutorial/TNBC_MIBI_Input/".
 
+### Run the following steps in Windows Powershell or Linux Bash shell:
+
+#### 1. Use Step1 to construct an undirected KNN graph.
+
+```bash
+conda activate CytoCommunity
+cd Tutorial/Unsupervised
+python Step1_ConstructCellularSpatialGraphs.py
+```
+&ensp;&ensp;**Hyperparameters**
+- InputFolderName: The folder name of your input dataset.
+- KNN_K: The K value used in the construction of the K nearest neighbor graph (cellular spatial graph) for each sample/image. This value can be empirically set to the integer closest to the square root of the average number of cells in the images in your dataset.
+
+
+
+
