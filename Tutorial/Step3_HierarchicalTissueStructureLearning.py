@@ -14,7 +14,7 @@ import shutil
 
 # Hyperparameters
 Max_Nodes = 8300  #This number must be higher than the largest number of cells in each image in the studied dataset.
-Image_Index = 0
+Image_Index = 1
 Num_Run = 20
 Num_Epoch = 10000
 Num_Fine = 15
