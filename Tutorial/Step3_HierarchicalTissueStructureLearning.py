@@ -22,6 +22,7 @@ Alpha = 0.9
 Edge_Pruning = 0.2
 Embedding_Dimension = 128
 Learning_Rate = 0.00001
+Beta = 0.2
 
 ## Load dataset from constructed Dataset.
 class SpatialOmicsImageDataset(InMemoryDataset):
@@ -162,7 +163,7 @@ while run_number <= Num_Run:  #Generate multiple independent runs for ensemble.
         shutil.rmtree(RunFolderName)
         continue
 
-    if train_loss >= -0.3  or train_loss4 > 0.2:
+    if train_loss >= -0.3  or train_loss4 > Beta:
         shutil.rmtree(RunFolderName)
         continue
 
