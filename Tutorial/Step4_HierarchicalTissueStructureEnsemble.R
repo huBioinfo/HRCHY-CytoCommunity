@@ -1,7 +1,7 @@
 library(diceR)
 
 Num_Run = 20
-Num_Cell = 6334
+Num_Cell = 6667
 Num_Fine = 15
 Num_Coarse = 2
 
