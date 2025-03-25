@@ -57,7 +57,7 @@ dict_color_Structure1 = {"1": "#5a3b1c", "2": "#939396", "3": "#2c663b", "4": "#
                    "11": "#ba55d3", "12": "#7b68ee", "13": "#00008b", "14": "#cd853f", "15": "#5f9eA0"}
 dict_color_Structure2 = {"1": "#beaed4", "2": "#7fc97f"}
 
-Structure_MajorityVoting_fig1 = sns.lmplot(x="x_coordinate", y="y_coordinate", data=target_graph_map, fit_reg=False, hue='Fine-grained_Tissue_Structure', legend=False, palette=dict_color_Structure1, scatter_kws={"s": 10.0})
+Structure_MajorityVoting_fig1 = sns.lmplot(x="x_coordinate", y="y_coordinate", data=target_graph_map, fit_reg=False, hue='PredictedLabel1', legend=False, palette=dict_color_Structure1, scatter_kws={"s": 10.0})
 
 Structure_MajorityVoting_fig1.set(xticks=[]) #remove ticks and also tick labels.
 Structure_MajorityVoting_fig1.set(yticks=[])
@@ -77,7 +77,7 @@ Structure_fig_filename1 = "./Fine-grained_Tissue_Structure.pdf"
 Structure_MajorityVoting_fig1.savefig(Structure_fig_filename1)
 
 
-Structure_MajorityVoting_fig2 = sns.lmplot(x="x_coordinate", y="y_coordinate", data=target_graph_map, fit_reg=False, hue='Coarse-grained_Tissue_Structure', legend=False, palette=dict_color_Structure2, scatter_kws={"s": 10.0})
+Structure_MajorityVoting_fig2 = sns.lmplot(x="x_coordinate", y="y_coordinate", data=target_graph_map, fit_reg=False, hue='PredictedLabel2', legend=False, palette=dict_color_Structure2, scatter_kws={"s": 10.0})
 
 Structure_MajorityVoting_fig2.set(xticks=[]) #remove ticks and also tick labels.
 Structure_MajorityVoting_fig2.set(yticks=[])
