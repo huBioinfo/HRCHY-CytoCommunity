@@ -55,9 +55,9 @@ target_graph_map.PredictedLabel2 = target_graph_map.PredictedLabel2.astype(str)
 dict_color_Structure1 = {"1": "#5a3b1c", "2": "#939396", "3": "#2c663b", "4": "#d63189", "5": "#54a9dd",
                    "6": "#813188", "7": "Orange", "8": "#231f1f", "9": "#912b61",  "10": "#dc143c",
                    "11": "#ba55d3", "12": "#7b68ee", "13": "#00008b", "14": "#cd853f", "15": "#5f9eA0"}
-dict_color_Structure2 = {"1": "#7fc97f", "2": "#beaed4"}
+dict_color_Structure2 = {"1": "#beaed4", "2": "#7fc97f"}
 
-Structure_MajorityVoting_fig1 = sns.lmplot(x="x_coordinate", y="y_coordinate", data=target_graph_map, fit_reg=False, hue='PredictedLabel1', legend=False, palette=dict_color_Structure1, scatter_kws={"s": 10.0})
+Structure_MajorityVoting_fig1 = sns.lmplot(x="x_coordinate", y="y_coordinate", data=target_graph_map, fit_reg=False, hue='Fine-grained_Tissue_Structure', legend=False, palette=dict_color_Structure1, scatter_kws={"s": 10.0})
 
 Structure_MajorityVoting_fig1.set(xticks=[]) #remove ticks and also tick labels.
 Structure_MajorityVoting_fig1.set(yticks=[])
@@ -77,7 +77,7 @@ Structure_fig_filename1 = "./Fine-grained_Tissue_Structure.pdf"
 Structure_MajorityVoting_fig1.savefig(Structure_fig_filename1)
 
 
-Structure_MajorityVoting_fig2 = sns.lmplot(x="x_coordinate", y="y_coordinate", data=target_graph_map, fit_reg=False, hue='PredictedLabel2', legend=False, palette=dict_color_Structure2, scatter_kws={"s": 10.0})
+Structure_MajorityVoting_fig2 = sns.lmplot(x="x_coordinate", y="y_coordinate", data=target_graph_map, fit_reg=False, hue='Coarse-grained_Tissue_Structure', legend=False, palette=dict_color_Structure2, scatter_kws={"s": 10.0})
 
 Structure_MajorityVoting_fig2.set(xticks=[]) #remove ticks and also tick labels.
 Structure_MajorityVoting_fig2.set(yticks=[])
@@ -97,10 +97,10 @@ Structure_MajorityVoting_fig2.savefig(Structure_fig_filename2)
 
 
 # Plot x/y map with "CellType" coloring.
-dict_color_CellType = {"CD4T": "#fee08b", "B": "Red", "DC": "Black", "CD8T": "MediumBlue", "CD11c-high": "Purple", "MF_1": "#00A087",
-                       "MF/Glia": "#1F77B4", "NK": "#a50026", "Treg": "#FF7F0E", "Other": "#9467BD", "MF_2": "#2CA02C",
-                       "Neutrophil": "#8C564B", "Epithelial": "#E377C2", "Mesenchymal/SMA": "#7F7F7F", "Tumor/Keratin": "#543005", "Tumor/EGFR": "#BCBD22",
-                       "Endothelial/Vim": "#17BECF"}
+dict_color_CellType = {"CD4+ T": "#fee08b", "B cells": "Red", "Dendritic cells": "Black", "CD8+ T": "MediumBlue", "CD3+ T": "Purple", "Macrophages": "#00A087",
+                       "Dendritic cells and monocytes mixed subpopulation": "#1F77B4", "NK cells": "#a50026", "Regulatory T": "#FF7F0E", "Other immune cells": "#9467BD",
+                       "Monocytes and neutrophils mixed subpopulation": "#2CA02C", "Neutrophil": "#8C564B", "Neoplastic cells": "#E377C2", "Mesenchymal stromal cells": "#7F7F7F",
+                       "Keratin+ neoplastic cells": "#543005", "Unknown subpopulation": "#BCBD22", "Endothelial cells": "#17BECF"}
 CellType_fig = sns.lmplot(x="x_coordinate", y="y_coordinate", data=target_graph_map, fit_reg=False, hue='CellType', legend=False, palette=dict_color_CellType, scatter_kws={"s": 10.0})
 
 CellType_fig.set(xticks=[]) #remove ticks and also tick labels.
@@ -109,9 +109,9 @@ CellType_fig.set(xlabel=None) #remove axis label.
 CellType_fig.set(ylabel=None)
 CellType_fig.despine(left=True, bottom=True) #remove x(bottom) and y(left) axis.
 
-CellType_fig.add_legend(label_order = ["CD4T", "B", "DC", "CD8T", "CD11c-high", "MF_1",
-                                       "MF/Glia", "NK", "Treg", "Other", "MF_2",
-                                       "Neutrophil", "Epithelial", "Mesenchymal/SMA", "Tumor/Keratin", "Tumor/EGFR", "Endothelial/Vim"])
+CellType_fig.add_legend(label_order = ["CD4+ T", "B cells", "Dendritic cells", "CD8+ T", "CD3+ T", "Macrophages", "Dendritic cells and monocytes mixed subpopulation",
+                                       "NK cells", "Regulatory T", "Other immune cells", "Monocytes and neutrophils mixed subpopulation", "Neutrophil",
+                                       "Neoplastic cells", "Mesenchymal stromal cells", "Keratin+ neoplastic cells", "Unknown subpopulation", "Endothelial cells"])
 for lh in CellType_fig._legend.legendHandles:
     #lh.set_alpha(1)
     lh._sizes = [15]   # You can also use lh.set_sizes([15])
