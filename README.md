@@ -44,8 +44,6 @@ Building upon the recently established tissue structure identification framework
 
 ### Hardware requirement 
 
-CPU: i7
-
 Memory: 16G or more
 
 Storage: 8GB or more
@@ -74,6 +72,7 @@ cd HRCHY-CytoCommunity
 2. Install the diceR package with the following command:
 
     ```bash
+    conda activate HRCHY-CytoCommunity
     R.exe
     > install.packages("diceR")
     ```
