@@ -14,6 +14,7 @@ import shutil
 
 # Hyperparameters
 Max_Nodes = 8300  #This number must be higher than the largest number of cells in each image in the studied dataset.
+Image_Index = 0
 Num_Run = 20
 Num_Epoch = 10000
 Num_Fine = 15
@@ -104,8 +105,7 @@ def train(epoch):
     return loss_all, loss_1, loss_2, loss_3, loss_4
 
 
-normal_index = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]  #Image index
-train_index = normal_index[0:1]  #Extract a single graph.
+train_index = [Image_Index]
 
 train_dataset = dataset[train_index]
 train_loader = DenseDataLoader(train_dataset, batch_size=1)
