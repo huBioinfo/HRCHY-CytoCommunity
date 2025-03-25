@@ -147,15 +147,12 @@ while run_number <= Num_Run:  #Generate multiple independent runs for ensemble.
             f0_csv.writerow([epoch, train_loss, train_loss1, train_loss2, train_loss3, train_loss4])
         
         if epoch == 200 and (train_loss4 > 0.7):
-            print(f"Type1: {train_loss1:.4f} {train_loss2:.4f} {train_loss3:.4f} {train_loss4:.4f}")
             break
 
         if epoch == 1000 and (train_loss2 > 1.2 or train_loss4 > 0.7):
-            print(f"Type2: {train_loss1:.4f} {train_loss2:.4f} {train_loss3:.4f} {train_loss4:.4f}")
             break
 
         if epoch == 2000 and (train_loss2 > 1.1 or train_loss4 > 0.7):
-            print(f"Type3: {train_loss1:.4f} {train_loss2:.4f} {train_loss3:.4f} {train_loss4:.4f}")
             break
 
         else:
@@ -165,13 +162,12 @@ while run_number <= Num_Run:  #Generate multiple independent runs for ensemble.
         shutil.rmtree(RunFolderName)
         continue
 
-    print(f"Final train loss is {train_loss:.6f}")
-
     if train_loss >= -0.3  or train_loss4 > 0.2:
-        print(f"Type4: {train_loss1:.4f} {train_loss2:.4f} {train_loss3:.4f} {train_loss4:.4f}")
         shutil.rmtree(RunFolderName)
         continue
 
+    print(f"Final train loss is {train_loss:.6f}")
+    
     print(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
 
     for EachData in all_sample_loader:
