@@ -154,7 +154,7 @@ Rscript Step4_HierarchicalTissueStructureEnsemble.R
 ```bash
 python Step5_ResultVisualization.py
 ```
-&ensp;&ensp;**Hyperparameters**
+&ensp;&ensp;**Hyperparameter**
 - InputFolderName: The folder name of the input dataset, consistent with Step1.
 
 
