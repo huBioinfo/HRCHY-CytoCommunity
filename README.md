@@ -69,7 +69,7 @@ cd HRCHY-CytoCommunity
     conda env create -f environment.yml
     ```
 
-2. Install the diceR package with the following command:
+2. Install R and the diceR package with the following command:
 
     ```bash
     conda activate HRCHY-CytoCommunity
@@ -77,7 +77,24 @@ cd HRCHY-CytoCommunity
     > install.packages("diceR")
     ```
 
+#### For Linux
 
+1. Create a new conda environment using the environment_linux.yml file with the following commands:
+   
+    ```bash
+    conda env create -f environment_linux.yml
+    ```
+
+2. Install R and the diceR package with the following command:
+    
+    ```bash
+    conda activate HRCHY-CytoCommunity
+    conda install R
+    R
+    > install.packages("diceR")
+    ```
+
+    
 ## Usage
 
 You can reproduce hierarchical tissue structure assignments of the human triple-negative breast cancer MIBI-TOF dataset shown in the HRCHY-CytoCommunity paper using the commands below. The associated code scripts and example input data can be found under the directory "Tutorial/".
