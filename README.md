@@ -94,6 +94,8 @@ cd HRCHY-CytoCommunity
     > install.packages("diceR")
     ```
 
+The whole installation should take around 20 minutes.
+
     
 ## Usage
 
