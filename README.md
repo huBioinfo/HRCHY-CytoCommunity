@@ -176,6 +176,8 @@ python Step5_ResultVisualization.py
 &ensp;&ensp;**Hyperparameter**
 - InputFolderName: The folder name of the input dataset, consistent with Step1.
 
+The total runtime is approximately 12 hours.
+
 
 ## Update Log
 
